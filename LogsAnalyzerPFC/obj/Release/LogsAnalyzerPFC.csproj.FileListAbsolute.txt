@@ -1,0 +1,25 @@
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\files\Comandos y Lógica de Análisis.xlsx
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\files\Original_1.txt
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\config\pfc.config
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\reports\Templates.xlsx
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\LogsAnalyzerPFC.exe.config
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\LogsAnalyzerPFC.exe
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\LogsAnalyzerPFC.pdb
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\en\LogsAnalyzerPFC.resources.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\Arquitectura.Comunicaciones.Email.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Release\Arquitectura.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.csproj.ResolveComReference.cache
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.Form1.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.forms.Form2.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.forms.Form3.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.entidades.messages.Messages.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.Properties.Resources.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.Form1.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.forms.Form2.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.forms.Form3.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.entidades.messages.Messages.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.csproj.GenerateResource.Cache
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\en\LogsAnalyzerPFC.resources.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.exe
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Release\LogsAnalyzerPFC.pdb

@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>This application has been implemented as a Thesis Project.
+
+It aims to assist in the analysis of a file log captured by Snoopy Logger.
+
+Author: María Yolanda González Castillo.
+
+Tutor: Alejandro Calderón Mateos
+
+Year implemented: 2015</value>
+  </data>
+  <data name="BodyMail" xml:space="preserve">
+    <value>Dear Friend,
+
+I am pleased to send you the requested reports .
+
+Feel free to reuse the application for further analysis.
+
+A greeting,
+
+The Development Team</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Exception</value>
+  </data>
+  <data name="ErrorCopyFolder" xml:space="preserve">
+    <value>Error saving the reports. Please. check for disk space and try again.</value>
+  </data>
+  <data name="ErrorMsgCommandsFile" xml:space="preserve">
+    <value>To perform the analysis of a log file, you must first load a file of initial commands with the logic of the analysis.</value>
+  </data>
+  <data name="ErrorMsgLogFile" xml:space="preserve">
+    <value>There's no logs file currently loaded into the database. In order to make a report, you must load one .</value>
+  </data>
+  <data name="ErrorMsgMailSent" xml:space="preserve">
+    <value>An error has ocurred sending the message. Please check that everything is correct, and try again.</value>
+  </data>
+  <data name="ErrorMsgNoCommands" xml:space="preserve">
+    <value>Unable to perform the analysis on the log file provided since there is no command loaded into the database. Please insert a initial commands file and then try again.</value>
+  </data>
+  <data name="ErrorMsgNoLogFile" xml:space="preserve">
+    <value>There is no log file stored in the database. Please load one and try again.</value>
+  </data>
+  <data name="ErrorMsgNoOldCommands" xml:space="preserve">
+    <value>To make a report , you must first load the initial commands file with the commands and categories with the logic of analysis.</value>
+  </data>
+  <data name="ErrorMsgNoOldFile" xml:space="preserve">
+    <value>To make a report, please press the Charge Log File button in order to load the log file that you want to analyze.</value>
+  </data>
+  <data name="ErrorMsgNoReport" xml:space="preserve">
+    <value>In order to allow a correct analysis, you must preload an initial commands file and the log file you want to analyze.</value>
+  </data>
+  <data name="ErrorReports" xml:space="preserve">
+    <value>There's no report to do. The table of the reports in the database is empty. Insert any, and try again.</value>
+  </data>
+  <data name="FolderDialog" xml:space="preserve">
+    <value>Select the folder to save the reports.</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="InfoMsgClearDB" xml:space="preserve">
+    <value>Do you really want to erase the information stored in the database?</value>
+  </data>
+  <data name="InfoMsgCommandsFile" xml:space="preserve">
+    <value>Do you really want to upload a new initial commands file?</value>
+  </data>
+  <data name="InfoMsgLogFile" xml:space="preserve">
+    <value>Do you really want to upload a new log file to analyze?</value>
+  </data>
+  <data name="InfoMsgMailSent" xml:space="preserve">
+    <value>The message has been sent.</value>
+  </data>
+  <data name="InfoMsgMakeReport" xml:space="preserve">
+    <value>Do you want to analyze the log file loaded with the logic of initial commands file you provided ?</value>
+  </data>
+  <data name="InfoMsgOldCommands" xml:space="preserve">
+    <value>Do you want to analyze the log file provided with the logic stored in the database?</value>
+  </data>
+  <data name="InfoMsgOldLogs" xml:space="preserve">
+    <value>Do you want to analysis the logs currently stored in the database, with the logic provided?</value>
+  </data>
+  <data name="InfoMsgOldReport" xml:space="preserve">
+    <value>Do you want to make a report with the information stored in the database?</value>
+  </data>
+  <data name="InfoMsgReport" xml:space="preserve">
+    <value>Do you want to analyze the log file loaded recently?</value>
+  </data>
+  <data name="InfoMsgReportOk" xml:space="preserve">
+    <value>Report generated correctly.</value>
+  </data>
+  <data name="InfoMsgTaskOk" xml:space="preserve">
+    <value>Task already finished.</value>
+  </data>
+  <data name="InfoNoFolder" xml:space="preserve">
+    <value>You did not select any folder to save the reports generated. Please, try again a select one.</value>
+  </data>
+  <data name="InfoNoFormat" xml:space="preserve">
+    <value>There's no report option selected. Please select one of the report options and generate it again.</value>
+  </data>
+  <data name="ReportProgress_B" xml:space="preserve">
+    <value>All Data Deleted.</value>
+  </data>
+  <data name="ReportProgress_BC" xml:space="preserve">
+    <value>Deleting Categories...</value>
+  </data>
+  <data name="ReportProgress_BCI" xml:space="preserve">
+    <value>Deleting Initial Commands...</value>
+  </data>
+  <data name="ReportProgress_BD" xml:space="preserve">
+    <value>Deleting Data...</value>
+  </data>
+  <data name="ReportProgress_BL" xml:space="preserve">
+    <value>Deleting Logs Records...</value>
+  </data>
+  <data name="ReportProgress_BU" xml:space="preserve">
+    <value>Deleting Users...</value>
+  </data>
+  <data name="ReportProgress_C1" xml:space="preserve">
+    <value>Log File Charged Correctly.</value>
+  </data>
+  <data name="ReportProgress_C2" xml:space="preserve">
+    <value>Initial Commands File Charged Correctly.</value>
+  </data>
+  <data name="ReportProgress_CC" xml:space="preserve">
+    <value>Charging Categories...</value>
+  </data>
+  <data name="ReportProgress_CCI" xml:space="preserve">
+    <value>Charging Initial Commands...</value>
+  </data>
+  <data name="ReportProgress_CD" xml:space="preserve">
+    <value>Charging Data...</value>
+  </data>
+  <data name="ReportProgress_CI" xml:space="preserve">
+    <value>Checking Requested Reports...</value>
+  </data>
+  <data name="ReportProgress_CL" xml:space="preserve">
+    <value>Charging Log Records...</value>
+  </data>
+  <data name="ReportProgress_CUyC" xml:space="preserve">
+    <value>Charging Users and New Commands Used...</value>
+  </data>
+  <data name="ReportProgress_GIS" xml:space="preserve">
+    <value>Generating Requested Report...</value>
+  </data>
+  <data name="ReportProgress_LBD" xml:space="preserve">
+    <value>Clearing Data Base</value>
+  </data>
+  <data name="ReportProgress_LFCI" xml:space="preserve">
+    <value>Reading Initial Commands File...</value>
+  </data>
+  <data name="ReportProgress_RI" xml:space="preserve">
+    <value>Making Report </value>
+  </data>
+  <data name="ReportProgress_RIS" xml:space="preserve">
+    <value>Making Requested Reports...</value>
+  </data>
+  <data name="SubjectMail" xml:space="preserve">
+    <value>PFC's Aplication Report</value>
+  </data>
+  <data name="Warn" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="WarnMsgChooseReport" xml:space="preserve">
+    <value>You must select at least one kind of report to generate.</value>
+  </data>
+  <data name="WarnMsgCommandsFile" xml:space="preserve">
+    <value>You have not selected any initial command file to load. The reports will be made with the commands and categories loaded in the database .</value>
+  </data>
+  <data name="WarnMsgLogFile" xml:space="preserve">
+    <value>You have not selected any new log file to analyze. Reports will be made with information loaded in the database .</value>
+  </data>
+  <data name="WarnMsgMailAddress" xml:space="preserve">
+    <value>Please, enter a correct e-mail address.</value>
+  </data>
+  <data name="WorkerErrorDeletingData" xml:space="preserve">
+    <value>An error has ocurred trying to delete the stored data.</value>
+  </data>
+  <data name="WorkerErrorFileTreatment" xml:space="preserve">
+    <value>An error has ocurred trying to charge the log file proportionate.</value>
+  </data>
+  <data name="WorkerErrorGeneratingReport" xml:space="preserve">
+    <value>An error has ocurred trying to generate the requested report.</value>
+  </data>
+  <data name="WorkerErrorRestartDB" xml:space="preserve">
+    <value>An error has ocurred trying to charge de initial commands file.</value>
+  </data>
+  <data name="FilterTypeCategoryMessage" xml:space="preserve">
+    <value>Please choose the category to apply the filter:</value>
+  </data>
+  <data name="FilterTypeCommandMessage" xml:space="preserve">
+    <value>Please choose the command to apply the filter:</value>
+  </data>
+  <data name="FilterTypeUserMessage" xml:space="preserve">
+    <value>Please choose the user to apply the filter:</value>
+  </data>
+  <data name="ErrorMsgExportFailed" xml:space="preserve">
+    <value>An error has ocurred trying to Export to PDF. Please, close all files and try again.</value>
+  </data>
+  <data name="EMPTY" xml:space="preserve">
+    <value>There's no data for the requested report; Change the filter options and try again.</value>
+  </data>
+  <data name="InfoPDFCreator" xml:space="preserve">
+    <value>Generating PDF</value>
+  </data>
+  <data name="WarnFileOpened" xml:space="preserve">
+    <value>In order to generate a new report, please close the previous report or save it in a new folder.</value>
+  </data>
+  <data name="MsgMailSendingStatus" xml:space="preserve">
+    <value>Sending email...</value>
+  </data>
+  <data name="MsgUpdateReportFiltersError" xml:space="preserve">
+    <value>Error applying the selected filters.</value>
+  </data>
+  <data name="MsgUpdateReportFiltersInit" xml:space="preserve">
+    <value>Aplying filters...</value>
+  </data>
+  <data name="MsgUpdateReportFiltersOk" xml:space="preserve">
+    <value>Filters applied succesfully.</value>
+  </data>
+  <data name="ReportGenerateCategoryFilterMsg" xml:space="preserve">
+    <value>category</value>
+  </data>
+  <data name="ReportGenerateCommandFilterMsg" xml:space="preserve">
+    <value>command</value>
+  </data>
+  <data name="ReportGenerateFilteredByMsg" xml:space="preserve">
+    <value>Filtered by</value>
+  </data>
+  <data name="ReportGenerateUserFilterMsg" xml:space="preserve">
+    <value>user</value>
+  </data>
+  <data name="MessageBoxCancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="MessageBoxNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="MessageBoxOk" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+  <data name="MessageBoxYes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+</root>

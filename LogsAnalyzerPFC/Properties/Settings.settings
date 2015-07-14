@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LogsAnalyzerPFC.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FicheroConfigPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config\pfc.config</Value>
+    </Setting>
+    <Setting Name="PlantillaInformesPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">reports\Templates.xlsx</Value>
+    </Setting>
+    <Setting Name="InformesPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">reports\Reports.xlsx</Value>
+    </Setting>
+    <Setting Name="InformesPDFPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">reports\PDFReport.pdf</Value>
+    </Setting>
+    <Setting Name="ReportFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Reports.xlsx</Value>
+    </Setting>
+    <Setting Name="PDFReportFileName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PDFReport.pdf</Value>
+    </Setting>
+    <Setting Name="FilesPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files</Value>
+    </Setting>
+    <Setting Name="MaxInitialCommands" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="MaxCommandsUsed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10000</Value>
+    </Setting>
+    <Setting Name="MaxParams" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="ManualPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">files\Manual.pdf</Value>
+    </Setting>
+    <Setting Name="ExternalResources" Type="System.String" Scope="User">
+      <Value Profile="(Default)">external_resources\ReportsResources</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

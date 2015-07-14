@@ -1,0 +1,84 @@
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\config\pfc.config
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.dll
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.pdb
+C:\Users\Manuel\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.xml
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\config\pfc.config
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.dll
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.xml
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Categorias.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Fichero.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Graficos.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Kernel_Logs_Hardware.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Multimedia.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Redes.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Sistema.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Base de Datos\Comandos por Categorias\Comandos_Varios.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Original.txt
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\config\pfc.config
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.dll
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.xml
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Reports\Reports.xlsx
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\reports\Templates.xlsx
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.Comunicaciones.Email.dll
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.Comunicaciones.Email.pdb
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.Comunicaciones.Email.xml
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.forms.Form2.resources
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\en\ConsoleApplication1.resources.dll
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.en.resources
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\en\ConsoleApplication1.resources.dll
+C:\Users\Papa\Desktop\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.forms.Form2.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\config\pfc.config
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\reports\Templates.xlsx
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\reports\Reports.xlsx
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\en\ConsoleApplication1.resources.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.Comunicaciones.Email.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.pdb
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.xml
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.Comunicaciones.Email.pdb
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\Arquitectura.Comunicaciones.Email.xml
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.forms.Form2.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.forms.Form2.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\en\ConsoleApplication1.resources.dll
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.forms.Form3.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.forms.Form3.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Comandos y Lógica de Análisis.xlsx
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\files\Original_1.txt
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.entidades.messages.Messages.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.entidades.messages.Messages.en.resources
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\bin\Debug\LogsAnalyzerPFC.exe.config

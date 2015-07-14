@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>Aplicación Realizada como Proyecto de Fin de Carrera.
+
+Tiene como finalidad principal ayudar al usuario en el análisis de un fichero de logs capturado con la herramienta Snoopy.
+
+Autor: María Yolanda González Castillo.
+
+Tutor: Alejandro Calderón Mateos
+
+Año de Creación: 2015</value>
+  </data>
+  <data name="BodyMail" xml:space="preserve">
+    <value>Estimado amigo,
+
+Tengo el placer de enviarle los informes solicitados.
+
+No dude en volver a utilizar la aplicación para futuros análisis.
+
+Un saludo,
+
+El Equipo de Desarrollo</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Excepción</value>
+  </data>
+  <data name="ErrorMsgCommandsFile" xml:space="preserve">
+    <value>Para poder realizar el análisis de un fichero log, debe cargar previamente un fichero de comandos iniciales con la lógica del análisis.</value>
+  </data>
+  <data name="ErrorMsgLogFile" xml:space="preserve">
+    <value>No existe actualmente ningún fichero de logs cargado en la base de datos. Para poder realizar un informe, debe cargar previamente uno.</value>
+  </data>
+  <data name="ErrorMsgMailSent" xml:space="preserve">
+    <value>Ha ocurrido un error durante el envio del mensaje. Por favor, compruebe que todo está todo correcto, y vuelva a intentarlo.</value>
+  </data>
+  <data name="ErrorMsgNoCommands" xml:space="preserve">
+    <value>No es posible realizar el análisis sobre el fichero de logs proporcionado puesto que no existe ningún comando cargado en la base de datos. Por favor, inserte un fichero de comandos iniciales y vuelva a intentarlo de nuevo.</value>
+  </data>
+  <data name="ErrorMsgNoLogFile" xml:space="preserve">
+    <value>No existe ningún fichero de logs almacenado en la base de datos. Por favor, cargue uno e intenténtelo de nuevo.</value>
+  </data>
+  <data name="ErrorMsgNoOldCommands" xml:space="preserve">
+    <value>Para poder realizar un informe, debe cargar previamente el fichero de comandos iniciales con los comandos y categorias con la lógica del análisis.</value>
+  </data>
+  <data name="ErrorMsgNoOldFile" xml:space="preserve">
+    <value>Para poder realizar un informe, debe cargar previamente el fichero de logs que quiere analizar.</value>
+  </data>
+  <data name="ErrorMsgNoReport" xml:space="preserve">
+    <value>Para poder realizar un análisis correcto, es imprescindible que cargue previamente tanto el fichero de comandos iniciales como el fichero de logs que quiere analizar.</value>
+  </data>
+  <data name="ErrorReports" xml:space="preserve">
+    <value>No hay informes para realizar. La tabla de Informes de la base de datos está vacía. Inserte alguno, y vuelva a intentarlo.</value>
+  </data>
+  <data name="FolderDialog" xml:space="preserve">
+    <value>Seleccione la carpeta donde desea guardar los informes.</value>
+  </data>
+  <data name="Info" xml:space="preserve">
+    <value>Información</value>
+  </data>
+  <data name="InfoMsgClearDB" xml:space="preserve">
+    <value>¿Desea borrar la información existente en la base de datos?</value>
+  </data>
+  <data name="InfoMsgCommandsFile" xml:space="preserve">
+    <value>¿Desea cargar un fichero nuevo de comandos iniciales?</value>
+  </data>
+  <data name="InfoMsgLogFile" xml:space="preserve">
+    <value>¿Desea cargar un fichero de logs nuevo para analizar?</value>
+  </data>
+  <data name="InfoMsgMailSent" xml:space="preserve">
+    <value>El mensaje ha sido enviado correctamente.</value>
+  </data>
+  <data name="InfoMsgMakeReport" xml:space="preserve">
+    <value>¿Quiere analizar el fichero de logs que acaba de cargar con la lógica del fichero de comandos iniciales que nos ha proporcionado?</value>
+  </data>
+  <data name="InfoMsgOldCommands" xml:space="preserve">
+    <value>¿Quiere analizar el fichero de logs que nos ha proporcionado con la lógica que hay almacenada en la base de datos?</value>
+  </data>
+  <data name="InfoMsgOldLogs" xml:space="preserve">
+    <value>¿Quiere realizar un análisis de los logs almacenados actualmente en la base de datos, con la lógica cargada recientemente?</value>
+  </data>
+  <data name="InfoMsgOldReport" xml:space="preserve">
+    <value>¿Desea realizar un análisis de la información almacenada en la base de datos?</value>
+  </data>
+  <data name="InfoMsgReport" xml:space="preserve">
+    <value>¿Desea realizar un análisis del fichero de logs cargado recientemente?</value>
+  </data>
+  <data name="InfoMsgReportOk" xml:space="preserve">
+    <value>Informe generado correctamente.</value>
+  </data>
+  <data name="ReportProgress_B" xml:space="preserve">
+    <value>Datos Borrados Correctamente.</value>
+  </data>
+  <data name="ReportProgress_BC" xml:space="preserve">
+    <value>Borrando Categorías...</value>
+  </data>
+  <data name="ReportProgress_BCI" xml:space="preserve">
+    <value>Borrando Comandos Iniciales...</value>
+  </data>
+  <data name="ReportProgress_BD" xml:space="preserve">
+    <value>Borrando datos...</value>
+  </data>
+  <data name="ReportProgress_BL" xml:space="preserve">
+    <value>Borrando Resgistros Log Almacenados...</value>
+  </data>
+  <data name="ReportProgress_BU" xml:space="preserve">
+    <value>Borrando Usuarios...</value>
+  </data>
+  <data name="ReportProgress_C1" xml:space="preserve">
+    <value>Fichero de Logs Cargado Correctamente.</value>
+  </data>
+  <data name="ReportProgress_C2" xml:space="preserve">
+    <value>Fichero de Comandos Iniciales Cargado Correctamente.</value>
+  </data>
+  <data name="ReportProgress_CC" xml:space="preserve">
+    <value>Cargando Categorias...</value>
+  </data>
+  <data name="ReportProgress_CCI" xml:space="preserve">
+    <value>Cargando Comandos Iniciales...</value>
+  </data>
+  <data name="ReportProgress_CD" xml:space="preserve">
+    <value>Cargando Datos...</value>
+  </data>
+  <data name="ReportProgress_CI" xml:space="preserve">
+    <value>Comprobando Informes Solicitados...</value>
+  </data>
+  <data name="ReportProgress_CL" xml:space="preserve">
+    <value>Cargando Registros Log...</value>
+  </data>
+  <data name="ReportProgress_CUyC" xml:space="preserve">
+    <value>Cargando Usuarios y Comandos Nuevos...</value>
+  </data>
+  <data name="ReportProgress_GIS" xml:space="preserve">
+    <value>Generando el Informe Solicitado...</value>
+  </data>
+  <data name="ReportProgress_LBD" xml:space="preserve">
+    <value>Limpiando Base de Datos...</value>
+  </data>
+  <data name="ReportProgress_LFCI" xml:space="preserve">
+    <value>Leyendo el Fichero de Comandos Iniciales...</value>
+  </data>
+  <data name="ReportProgress_RI" xml:space="preserve">
+    <value>Realizando Informe...</value>
+  </data>
+  <data name="ReportProgress_RIS" xml:space="preserve">
+    <value>Realizando Informes Solicitados...</value>
+  </data>
+  <data name="SubjectMail" xml:space="preserve">
+    <value>Informes de la Aplicación PFC</value>
+  </data>
+  <data name="Warn" xml:space="preserve">
+    <value>Advertencia</value>
+  </data>
+  <data name="WarnMsgChooseReport" xml:space="preserve">
+    <value>Debe seleccionar al menos un tipo de informe a generar.</value>
+  </data>
+  <data name="WarnMsgCommandsFile" xml:space="preserve">
+    <value>No ha seleccionado ningún fichero de comandos iniciales para cargar. Los informes se realizarán con los comandos y categorías existentes en la base de datos.</value>
+  </data>
+  <data name="WarnMsgLogFile" xml:space="preserve">
+    <value>No ha seleccionado ningún fichero de logs nuevo para analizar. Los informes se realizarán con la información existente en la base de datos.</value>
+  </data>
+  <data name="WarnMsgMailAddress" xml:space="preserve">
+    <value>Debe introducir una dirección de correo electrónico válida.</value>
+  </data>
+  <data name="WorkerErrorDeletingData" xml:space="preserve">
+    <value>Se ha producido un error borrando los datos almacenados.</value>
+  </data>
+  <data name="WorkerErrorFileTreatment" xml:space="preserve">
+    <value>Se ha producido un error cargando el fichero de logs proporcionado.</value>
+  </data>
+  <data name="WorkerErrorGeneratingReport" xml:space="preserve">
+    <value>Se ha producido un error generando el informe solicitado.</value>
+  </data>
+  <data name="WorkerErrorRestartDB" xml:space="preserve">
+    <value>Se ha producido un error cargando el fichero de comandos iniciales.</value>
+  </data>
+  <data name="FilterTypeCategoryMessage" xml:space="preserve">
+    <value>Seleccione la categoría por la que desea filtrar los informes:</value>
+  </data>
+  <data name="FilterTypeCommandMessage" xml:space="preserve">
+    <value>Seleccione el comando por el que desea filtrar los informes:</value>
+  </data>
+  <data name="FilterTypeUserMessage" xml:space="preserve">
+    <value>Seleccione el usuario por el que desea filtrar los informes:</value>
+  </data>
+  <data name="ErrorCopyFolder" xml:space="preserve">
+    <value>Error guardando los informes. Compruebe, por favor, que hay espacio en disco y vuelva a intentarlo.</value>
+  </data>
+  <data name="InfoMsgTaskOk" xml:space="preserve">
+    <value>Tarea finalizada correctamente.</value>
+  </data>
+  <data name="InfoNoFolder" xml:space="preserve">
+    <value>No ha seleccionado ninguna carpeta destino donde guardar el informe generado. Por favor, vuelva a intentarlo y seleccione la ubicación donde quiere guardarlo.</value>
+  </data>
+  <data name="InfoNoFormat" xml:space="preserve">
+    <value>No ha seleccionado ninguna opción para el informe. Por favor, seleccione al menos una de ellas y vuelva a intentarlo.</value>
+  </data>
+  <data name="ErrorMsgExportFailed" xml:space="preserve">
+    <value>Error exportando el fichero Excel a PDF. Por favor, cierre los ficheros abiertos y vuelva a intentarlo.</value>
+  </data>
+  <data name="EMPTY" xml:space="preserve">
+    <value>No existen datos para el Informe solicitado; Cambie las opciones de filtrado y vuelva a intentarlo.</value>
+  </data>
+  <data name="InfoPDFCreator" xml:space="preserve">
+    <value>Generando PDF</value>
+  </data>
+  <data name="WarnFileOpened" xml:space="preserve">
+    <value>Para poder generar un nuevo informe, por favor, cierre el informe anterior o guárdelo en otra carpeta.</value>
+  </data>
+  <data name="MsgMailSendingStatus" xml:space="preserve">
+    <value>Enviando correo electrónico...</value>
+  </data>
+  <data name="MsgUpdateReportFiltersError" xml:space="preserve">
+    <value>Se ha producido un error aplicando los filtros seleccionados.</value>
+  </data>
+  <data name="MsgUpdateReportFiltersInit" xml:space="preserve">
+    <value>Aplicando filtros...</value>
+  </data>
+  <data name="MsgUpdateReportFiltersOk" xml:space="preserve">
+    <value>Se han aplicado los filtros correctamente.</value>
+  </data>
+  <data name="ReportGenerateCategoryFilterMsg" xml:space="preserve">
+    <value>categoría</value>
+  </data>
+  <data name="ReportGenerateCommandFilterMsg" xml:space="preserve">
+    <value>comando</value>
+  </data>
+  <data name="ReportGenerateFilteredByMsg" xml:space="preserve">
+    <value>Filtrado por</value>
+  </data>
+  <data name="ReportGenerateUserFilterMsg" xml:space="preserve">
+    <value>usuario</value>
+  </data>
+  <data name="MessageBoxCancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="MessageBoxNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="MessageBoxOk" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
+  <data name="MessageBoxYes" xml:space="preserve">
+    <value>Si</value>
+  </data>
+</root>
