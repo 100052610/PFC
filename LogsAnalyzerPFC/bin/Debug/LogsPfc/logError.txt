@@ -1,7 +1,0 @@
-#[14/07/2015 20:02:34] [Error] LOG: Error Borrando los ficheros antiguos
-#[14/07/2015 20:02:34] [Error] LOG: El proceso no puede obtener acceso al archivo 'C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\reports\PDFReport.pdf' porque está siendo utilizado en otro proceso.
-#[14/07/2015 20:06:02] [Error] LOG: Error Borrando los ficheros antiguos
-#[14/07/2015 20:06:02] [Error] LOG: El proceso no puede obtener acceso al archivo 'C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\reports\PDFReport.pdf' porque está siendo utilizado en otro proceso.
-#[14/07/2015 20:24:52] [Error] LOG: Error Borrando los ficheros antiguos
-#[14/07/2015 20:24:52] [Error] LOG: El proceso no puede obtener acceso al archivo 'C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\reports\Reports.xlsx' porque está siendo utilizado en otro proceso.
-#[14/07/2015 21:01:05] [Error] LOG: Object reference not set to an instance of an object.
