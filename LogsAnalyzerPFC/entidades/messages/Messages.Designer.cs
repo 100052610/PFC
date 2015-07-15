@@ -212,6 +212,78 @@ namespace LogsAnalyzerPFC.entidades.messages {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al borrar los datos de comandos y usuarios de la base de datos..
+        /// </summary>
+        internal static string FileTreatmentErrorDeletingPreviousData {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorDeletingPreviousData", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al almacenar los comandos nuevos en la base de datos..
+        /// </summary>
+        internal static string FileTreatmentErrorLoadingNewCommands {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorLoadingNewCommands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al almacenar los usuarios en la base de datos..
+        /// </summary>
+        internal static string FileTreatmentErrorLoadingUsers {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorLoadingUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error leyendo el fichero de logs..
+        /// </summary>
+        internal static string FileTreatmentErrorReadingFile1pass {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorReadingFile1pass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error leyendo el fichero de logs..
+        /// </summary>
+        internal static string FileTreatmentErrorReadingFile2pass {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorReadingFile2pass", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al recuperar el listado de comandos..
+        /// </summary>
+        internal static string FileTreatmentErrorRetrievingAllCommands {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorRetrievingAllCommands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al recuperar el listado de usuarios..
+        /// </summary>
+        internal static string FileTreatmentErrorRetrievingAllUsers {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorRetrievingAllUsers", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al almacenar los comandos nuevos pendientes en la base de datos..
+        /// </summary>
+        internal static string FileTreatmentErrorSavingPendingCommands {
+            get {
+                return ResourceManager.GetString("FileTreatmentErrorSavingPendingCommands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Seleccione la categoría por la que desea filtrar los informes:.
         /// </summary>
         internal static string FilterTypeCategoryMessage {
@@ -379,6 +451,33 @@ namespace LogsAnalyzerPFC.entidades.messages {
         internal static string InfoPDFCreator {
             get {
                 return ResourceManager.GetString("InfoPDFCreator", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error recuperando la informacion del excel de comandos y categorias. Compruebe el formato del fichero de entrada..
+        /// </summary>
+        internal static string InitialChargeErrorReadingExcelFile {
+            get {
+                return ResourceManager.GetString("InitialChargeErrorReadingExcelFile", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al almacenar las categorías en la base de datos..
+        /// </summary>
+        internal static string InitialChargeErrorSavingCategories {
+            get {
+                return ResourceManager.GetString("InitialChargeErrorSavingCategories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error al almacenar los comandos en la base de datos..
+        /// </summary>
+        internal static string InitialChargeErrorSavingCommands {
+            get {
+                return ResourceManager.GetString("InitialChargeErrorSavingCommands", resourceCulture);
             }
         }
         
@@ -658,6 +757,15 @@ namespace LogsAnalyzerPFC.entidades.messages {
         internal static string ReportProgress_RIS {
             get {
                 return ResourceManager.GetString("ReportProgress_RIS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Se ha producido un error borrando la información previa de la base de datos..
+        /// </summary>
+        internal static string RestartDataBaseErrorDeletingPreviousData {
+            get {
+                return ResourceManager.GetString("RestartDataBaseErrorDeletingPreviousData", resourceCulture);
             }
         }
         

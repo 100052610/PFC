@@ -121,15 +121,6 @@
     <value>False</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="toolStripHelp.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 9pt, style=Bold</value>
-  </data>
-  <data name="toolStripHelp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>87, 20</value>
-  </data>
-  <data name="toolStripHelp.Text" xml:space="preserve">
-    <value>Información</value>
-  </data>
   <data name="acercaDeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
   </data>
@@ -142,11 +133,23 @@
   <data name="guíaDeUsoToolStripMenuItem.Text" xml:space="preserve">
     <value>Guía de Uso</value>
   </data>
+  <data name="toolStripHelp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt, style=Bold</value>
+  </data>
+  <data name="toolStripHelp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>87, 20</value>
+  </data>
+  <data name="toolStripHelp.Text" xml:space="preserve">
+    <value>Información</value>
+  </data>
   <metadata name="openFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <metadata name="openFileDialog2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>157, 18</value>
+  </metadata>
+  <metadata name="labelTitle.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
   <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="labelTitle.AutoSize" type="System.Boolean, mscorlib">
@@ -192,9 +195,27 @@
   <data name="toolStripMenuItem1.Text" xml:space="preserve">
     <value>File</value>
   </data>
-  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>3, 653</value>
+  <metadata name="statusStrip1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>3, 663</value>
+  </metadata>
+  <data name="toolStripStatusLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="toolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>567, 17</value>
+  </data>
+  <data name="toolStripProgressBar1.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="toolStripProgressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>300, 16</value>
+  </data>
+  <data name="toolStripProgressBar1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
     <value>3, 663</value>
   </data>
@@ -219,21 +240,9 @@
   <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="toolStripStatusLabel1.AutoSize" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="toolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>567, 17</value>
-  </data>
-  <data name="toolStripProgressBar1.AutoSize" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="toolStripProgressBar1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>300, 16</value>
-  </data>
-  <data name="toolStripProgressBar1.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
+  <metadata name="menuStrip1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>3, 3</value>
   </metadata>
@@ -263,6 +272,9 @@
   </data>
   <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>392, 20</value>
+  </metadata>
+  <metadata name="btnSpanish.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
   <data name="btnSpanish.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
@@ -294,6 +306,9 @@
   <data name="&gt;&gt;btnSpanish.ZOrder" xml:space="preserve">
     <value>12</value>
   </data>
+  <metadata name="btnEnglish.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="btnEnglish.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Popup</value>
   </data>
@@ -324,6 +339,9 @@
   <data name="&gt;&gt;btnEnglish.ZOrder" xml:space="preserve">
     <value>13</value>
   </data>
+  <metadata name="helpBox2.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="helpBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -354,6 +372,9 @@
   <data name="&gt;&gt;helpBox2.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="helpBox3.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="helpBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -384,6 +405,9 @@
   <data name="&gt;&gt;helpBox3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="helpBox4.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="helpBox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -414,6 +438,9 @@
   <data name="&gt;&gt;helpBox4.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="helpBox1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="helpBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -444,6 +471,9 @@
   <data name="&gt;&gt;helpBox1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="lblCommandsState.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblCommandsState.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -471,6 +501,9 @@
   <data name="&gt;&gt;lblCommandsState.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
+  <metadata name="lblLogsState.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblLogsState.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -498,6 +531,9 @@
   <data name="&gt;&gt;lblLogsState.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
+  <metadata name="lblDbState.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblDbState.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -525,6 +561,9 @@
   <data name="&gt;&gt;lblDbState.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <metadata name="picBBDD.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="picBBDD.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -552,6 +591,9 @@
   <data name="&gt;&gt;picBBDD.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <metadata name="picLogs.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="picLogs.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -579,6 +621,9 @@
   <data name="&gt;&gt;picLogs.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
+  <metadata name="picCommands.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="picCommands.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -606,6 +651,9 @@
   <data name="&gt;&gt;picCommands.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
+  <metadata name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -630,6 +678,9 @@
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
+  <metadata name="pictureBox2.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="pictureBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -660,6 +711,9 @@
   <data name="&gt;&gt;pictureBox2.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
+  <metadata name="btnChargeLogFile.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="btnChargeLogFile.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -687,6 +741,9 @@
   <data name="&gt;&gt;btnChargeLogFile.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <metadata name="btnRestarDataBase.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="btnRestarDataBase.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -714,6 +771,9 @@
   <data name="&gt;&gt;btnRestarDataBase.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <metadata name="gb1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="gb1.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 151</value>
   </data>
@@ -735,6 +795,9 @@
   <data name="&gt;&gt;gb1.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <metadata name="btnAnalizeLogFile.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="btnAnalizeLogFile.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -762,6 +825,9 @@
   <data name="&gt;&gt;btnAnalizeLogFile.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="gb2.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="gb2.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 335</value>
   </data>
@@ -783,6 +849,9 @@
   <data name="&gt;&gt;gb2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <metadata name="btnClearDataBase.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="btnClearDataBase.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -810,6 +879,9 @@
   <data name="&gt;&gt;btnClearDataBase.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="gb3.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="gb3.Location" type="System.Drawing.Point, System.Drawing">
     <value>66, 455</value>
   </data>
@@ -831,6 +903,9 @@
   <data name="&gt;&gt;gb3.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="picVenn.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="picVenn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -858,6 +933,9 @@
   <data name="&gt;&gt;picVenn.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
+  <metadata name="lblVennLeft.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblVennLeft.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -894,6 +972,9 @@
   <data name="&gt;&gt;lblVennLeft.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <metadata name="lblVennRight.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblVennRight.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -930,6 +1011,9 @@
   <data name="&gt;&gt;lblVennRight.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <metadata name="lblVennLeftDesc.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblVennLeftDesc.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -960,6 +1044,9 @@
   <data name="&gt;&gt;lblVennLeftDesc.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
+  <metadata name="lblVennCommon.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblVennCommon.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -996,6 +1083,9 @@
   <data name="&gt;&gt;lblVennCommon.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="lblVennRightDesc.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="lblVennRightDesc.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -1026,6 +1116,9 @@
   <data name="&gt;&gt;lblVennRightDesc.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <metadata name="panel1.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>370, 483</value>
   </data>
@@ -1055,6 +1148,9 @@
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>58</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>

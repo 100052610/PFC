@@ -56,9 +56,9 @@ namespace LogsAnalyzerPFC
             lines = this.firstReadFile();
             modLog.Info("En total se usan " + comandos + " comandos distintos en el fichero de logs");
 
-            if (lines < 0)
+            if (lines <= 0)
             {
-                throw new AppProcessException("TODO: Error leyendo el fichero de logs (primera pasada)");
+                throw new AppProcessException("FileTreatmentErrorReadingFile1pass");
             }
 
             total = lines + this.userList.Count + this.commandList.Count;
@@ -69,7 +69,7 @@ namespace LogsAnalyzerPFC
             // Cargamos los usuarios en la Base de Datos en la tabla USERS
             if (!this.newData.chargeUsers(this.userList))
             {
-                throw new AppProcessException("TODO: Error cargando los usuarios en la tabla USERS");
+                throw new AppProcessException("FileTreatmentErrorLoadingUsers");
             }
             
             actual += this.userList.Count;
@@ -80,7 +80,7 @@ namespace LogsAnalyzerPFC
             // Cargamos los nuevos comandos utilizados en la Base de Datos en la tabla COMMANDS
             if (!this.newData.chargeCommands(this.commandList))
             {
-                throw new AppProcessException("TODO: Error cargando los comandos nuevos en la tabla COMMANDS");
+                throw new AppProcessException("FileTreatmentErrorLoadingNewCommands");
             }
 
             actual += this.commandList.Count;
@@ -94,24 +94,24 @@ namespace LogsAnalyzerPFC
             this.userList = newData.getAllUsers();
             if (this.userList.Count == 0)
             {
-                throw new AppProcessException("TODO: Se ha producido un error al recuperar todos los usuarios");
+                throw new AppProcessException("FileTreatmentErrorRetrievingAllUsers");
             }
 
             this.commandList = newData.getAllCommands();
             if (this.commandList.Count == 0)
             {
-                throw new AppProcessException("TODO: Se ha producido un error al recuperar todos los comandos");
+                throw new AppProcessException("FileTreatmentErrorRetrievingAllCommands");
             }
 
             lines = this.secondReadFile(worker, actual, total);
             if (lines <= 0)
             {
-                throw new AppProcessException("TODO: Error leyendo el fichero de logs (primera pasada)");
+                throw new AppProcessException("FileTreatmentErrorReadingFile2pass");
             }
 
             if (!this.newData.chargeLastUsedCommands())
             {
-                throw new AppProcessException("TODO: Error cargando los comandos restantes del fichero de logs");
+                throw new AppProcessException("FileTreatmentErrorSavingPendingCommands");
             }
 
             modLog.Info("Hemos insertado " + logs + " comandos usados en la base de datos");

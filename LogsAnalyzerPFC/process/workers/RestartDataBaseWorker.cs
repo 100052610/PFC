@@ -34,8 +34,8 @@ namespace LogsAnalyzerPFC.process
 
                 worker.ReportProgress(0, Constantes.getMessage("ReportProgress_BD"));
                 if (!this.chargeData.restartDataBase(worker))
-                {                    
-                    throw new AppProcessException("TODO: Error reseteando las tablas de comandos y categorias de la BBDD");
+                {
+                    throw new AppProcessException("RestartDataBaseErrorDeletingPreviousData");
                 }
 
                 worker.ReportProgress(15, Constantes.getMessage("ReportProgress_LFCI"));

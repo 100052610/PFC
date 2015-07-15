@@ -361,4 +361,40 @@ The Development Team</value>
   <data name="MessageBoxYes" xml:space="preserve">
     <value>Yes</value>
   </data>
+  <data name="FileTreatmentErrorDeletingPreviousData" xml:space="preserve">
+    <value>An error has ocurred while deleting the users and commands stored in the database.</value>
+  </data>
+  <data name="FileTreatmentErrorLoadingNewCommands" xml:space="preserve">
+    <value>An error has ocurred while storing new commands in the database.</value>
+  </data>
+  <data name="FileTreatmentErrorLoadingUsers" xml:space="preserve">
+    <value>An error has ocurred while storing new users in the database.</value>
+  </data>
+  <data name="FileTreatmentErrorReadingFile1pass" xml:space="preserve">
+    <value>An error has ocurred while reading the logs file.</value>
+  </data>
+  <data name="FileTreatmentErrorReadingFile2pass" xml:space="preserve">
+    <value>An error has ocurred while reading the logs file.</value>
+  </data>
+  <data name="FileTreatmentErrorRetrievingAllCommands" xml:space="preserve">
+    <value>An error has ocurred while retrieving all the commands stored in the database.</value>
+  </data>
+  <data name="FileTreatmentErrorRetrievingAllUsers" xml:space="preserve">
+    <value>An error has ocurred while retrieving all the users stored in the database.</value>
+  </data>
+  <data name="FileTreatmentErrorSavingPendingCommands" xml:space="preserve">
+    <value>An error has ocurred while storing the pending new commands in the database.</value>
+  </data>
+  <data name="InitialChargeErrorReadingExcelFile" xml:space="preserve">
+    <value>An error has ocurred while retrieving the commands and categories information from the excel. Please check the input file format.</value>
+  </data>
+  <data name="InitialChargeErrorSavingCategories" xml:space="preserve">
+    <value>An error has ocurred while storing the categories in the database.</value>
+  </data>
+  <data name="InitialChargeErrorSavingCommands" xml:space="preserve">
+    <value>An error has ocurred while storing the commands in the database.</value>
+  </data>
+  <data name="RestartDataBaseErrorDeletingPreviousData" xml:space="preserve">
+    <value>An error has ocurred while deleting the previous stored database information.</value>
+  </data>
 </root>

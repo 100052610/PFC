@@ -53,7 +53,7 @@ namespace LogsAnalyzerPFC
 
             if (!this.readCommandsFile(worker))
             {
-                throw new AppProcessException("TODO: Se ha producido un error recuperando la informacion del excel de comandos y categorias");
+                throw new AppProcessException("InitialChargeErrorReadingExcelFile");
             }
             
             modLog.Info("Fichero de Comandos Iniciales leído.");
@@ -64,7 +64,7 @@ namespace LogsAnalyzerPFC
 
             if (!this.newData.chargeCategories(this.categoriesList))
             {
-                throw new AppProcessException("TODO: No se han guardado correctamente las categorías en BBDD");
+                throw new AppProcessException("InitialChargeErrorSavingCategories");
             }
 
             modLog.Info("Categorias Iniciales Cargadas en la Base de Datos");
@@ -90,7 +90,7 @@ namespace LogsAnalyzerPFC
 
             if (!this.newData.chargeInitialCommands(this.commandsList, worker))
             {
-                throw new AppProcessException("TODO: No se han guardado correctamente los comandos en BBDD");
+                throw new AppProcessException("InitialChargeErrorSavingCommands");
             }
             
             modLog.Info("Comandos Iniciales Cargados en la Base de Datos");

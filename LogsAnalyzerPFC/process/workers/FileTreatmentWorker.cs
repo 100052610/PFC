@@ -37,7 +37,7 @@ namespace LogsAnalyzerPFC.process
                 worker.ReportProgress(0, Constantes.getMessage("ReportProgress_LBD"));
                 if (!this.chargeData.clearDataBase(worker))
                 {
-                    throw new AppProcessException("TODO: Error borrando los comandos y usuarios de la BBDD");
+                    throw new AppProcessException("FileTreatmentErrorDeletingPreviousData");
                 }
                 
                 worker.ReportProgress(10, Constantes.getMessage("ReportProgress_CD"));

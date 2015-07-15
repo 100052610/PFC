@@ -87,14 +87,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LogsAnalyzerPFC.exe" size="754176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LogsAnalyzerPFC.exe" size="755712">
       <assemblyIdentity name="LogsAnalyzerPFC" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>H6m8rLhUJ5/k6wo06YSMti3n9zg=</dsig:DigestValue>
+        <dsig:DigestValue>X33t4XrstnAmnPD53IMS7iI44z8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -106,7 +106,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RbuOvZj1spBgyjbLJjajWWZuIN0=</dsig:DigestValue>
+        <dsig:DigestValue>SnjYPrlivAzR5klvj1wlFC+bl2Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
