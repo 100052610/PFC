@@ -28,6 +28,8 @@ C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleAp
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\en\LogsAnalyzerPFC.resources.dll
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\LogsAnalyzerPFC.exe
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\ConsoleApplication1\ConsoleApplication1\obj\Debug\LogsAnalyzerPFC.pdb
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\LogsAnalyzerPFC.exe.config
+C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Debug\LogsAnalyzerPFC.csproj.ResolveComReference.cache
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\files\Comandos y Lógica de Análisis.xlsx
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\files\Original_1.txt
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\config\pfc.config
@@ -42,7 +44,6 @@ C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerP
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\scripts_bbdd\drops.sql
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\scripts_bbdd\inserts.sql
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\scripts_bbdd\make.sql
-C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\LogsAnalyzerPFC.exe.config
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\LogsAnalyzerPFC.exe.manifest
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\LogsAnalyzerPFC.application
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\LogsAnalyzerPFC.exe
@@ -52,7 +53,6 @@ C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerP
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\Arquitectura.dll
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\bin\Debug\MessageBoxManager.dll
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Debug\LogsAnalyzerPFC.csproj.ResolveComReference.cache
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Debug\LogsAnalyzerPFC.Form1.resources
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Debug\LogsAnalyzerPFC.forms.Form2.resources
 C:\Users\Papa\Dropbox\PFC YOLY\Aplicación\Project\LogsAnalyzerPFC\LogsAnalyzerPFC\obj\Debug\LogsAnalyzerPFC.forms.Form3.resources
