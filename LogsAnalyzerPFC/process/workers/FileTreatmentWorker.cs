@@ -73,7 +73,6 @@ namespace LogsAnalyzerPFC.process
                     throw new Exception(error);
                 }
             }
-        }
-    
+        }    
     }
 }

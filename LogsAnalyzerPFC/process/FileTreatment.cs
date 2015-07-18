@@ -62,9 +62,9 @@ namespace LogsAnalyzerPFC
             }
 
             total = lines + this.userList.Count + this.commandList.Count;
-            actual = 10;
+            actual = 0;
 
-            worker.ReportProgress(20, Constantes.getMessage("ReportProgress_CUyC"));
+            worker.ReportProgress(0, Constantes.getMessage("ReportProgress_CUyC"));
 
             // Cargamos los usuarios en la Base de Datos en la tabla USERS
             if (!this.newData.chargeUsers(this.userList))

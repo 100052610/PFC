@@ -37,7 +37,7 @@ namespace LogsAnalyzerPFC.process
         {
             Exception processEx = null;
             Thread.CurrentThread.CurrentUICulture = new CultureInfo(Constantes.language);
-            this.modLog.Info("Starting worker thread");
+            this.modLog.Info(String.Format("Starting worker thread: [{0}]", this.getType().ToString()));
             
             try
             {
@@ -66,7 +66,7 @@ namespace LogsAnalyzerPFC.process
                 }
                 catch (Exception) { }
             }
-            this.modLog.Info("Finished worker thread");            
+            this.modLog.Info(String.Format("Finished worker thread: [{0}]", this.getType().ToString()));            
         }
 
         protected abstract void doSpecificWork(BackgroundWorker worker, DoWorkEventArgs args);

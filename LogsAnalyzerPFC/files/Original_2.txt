@@ -1,0 +1,711 @@
+Jan 20 09:04:29 horus snoopy[23695]: [sia, uid:1045 sid:23695]: -bash 
+Jan 20 09:04:29 horus snoopy[23697]: [sia, uid:1045 sid:23695]: id -u 
+Jan 20 09:04:29 horus snoopy[23699]: [sia, uid:1045 sid:23695]: dircolors -b 
+Jan 20 09:04:30 horus snoopy[23700]: [sia, uid:1045 sid:23695]: ls --color=auto 
+Jan 20 09:42:40 horus snoopy[25547]: [sescolar, uid:3009 sid:25547]: -bash 
+Jan 20 09:42:40 horus snoopy[25549]: [sescolar, uid:3009 sid:25547]: id -u 
+Jan 20 09:42:49 horus snoopy[25550]: [sescolar, uid:3009 sid:25547]: ssh ssdd@ssh 
+Jan 20 09:42:50 horus snoopy[25554]: [ssdd, uid:1003 sid:25554]: -bash 
+Jan 20 09:42:50 horus snoopy[25556]: [ssdd, uid:1003 sid:25554]: id -u 
+Jan 20 09:42:51 horus snoopy[25557]: [ssdd, uid:1003 sid:25554]: ls 
+Jan 20 09:42:55 horus snoopy[25558]: [ssdd, uid:1003 sid:25554]: ls 
+Jan 20 09:42:59 horus snoopy[25560]: [ssdd, uid:1003 sid:25554]: ls 
+Jan 20 09:43:05 horus snoopy[25561]: [ssdd, uid:1003 sid:25554]: ls 
+Jan 20 09:43:08 horus snoopy[25562]: [ssdd, uid:1003 sid:25554]: ls 
+Jan 20 10:23:37 horus snoopy[27412]: [rlara, uid:1119 sid:27412]: -bash 
+Jan 20 10:23:37 horus snoopy[27414]: [rlara, uid:1119 sid:27412]: id -u 
+Jan 20 10:23:37 horus snoopy[27416]: [rlara, uid:1119 sid:27412]: dircolors -b 
+Jan 20 10:24:09 horus snoopy[27417]: [rlara, uid:1119 sid:27412]: ls --color=auto -la 
+Jan 20 10:24:23 horus snoopy[27418]: [rlara, uid:1119 sid:27412]: vi .forward 
+Jan 20 10:36:36 horus snoopy[28103]: [ssdd, uid:1003 sid:25554]: find / -name socket.h 
+Jan 20 12:27:31 horus snoopy[726]: [ssdd, uid:1003 sid:25554]: ls 
+Jan 20 12:27:36 horus snoopy[727]: [ssdd, uid:1003 sid:25554]: vi socket.h 
+Jan 20 12:28:13 horus snoopy[731]: [ssdd, uid:1003 sid:25554]: man ip 
+Jan 20 12:28:23 horus snoopy[749]: [ssdd, uid:1003 sid:25554]: man tcp 
+Jan 20 12:28:31 horus snoopy[767]: [ssdd, uid:1003 sid:25554]: man port 
+Jan 20 12:28:38 horus snoopy[802]: [ssdd, uid:1003 sid:25554]: man udp 
+Jan 20 12:28:43 horus snoopy[820]: [ssdd, uid:1003 sid:25554]: vi /etc/protocols 
+Jan 20 12:29:47 horus snoopy[823]: [ssdd, uid:1003 sid:25554]: vi /usr/include/netinet/in.h 
+Jan 20 12:30:18 horus snoopy[1076]: [ssdd, uid:1003 sid:25554]: vi /usr/include/sys/un.h 
+Jan 20 12:36:53 horus snoopy[1331]: [ssdd, uid:1003 sid:25554]: man gethostname 
+Jan 20 12:43:36 horus snoopy[1581]: [ssdd, uid:1003 sid:25554]: man inet_ntoa 
+Jan 20 12:43:45 horus snoopy[1601]: [ssdd, uid:1003 sid:25554]: man inet_aton 
+Jan 20 12:44:20 horus snoopy[1621]: [ssdd, uid:1003 sid:25554]: man inet_aton 
+Jan 20 12:47:17 horus snoopy[1882]: [acaldero, uid:3002 sid:1882]: -bash 
+Jan 20 12:47:17 horus snoopy[1884]: [acaldero, uid:3002 sid:1882]: id -u 
+Jan 20 12:47:20 horus snoopy[1885]: [acaldero, uid:3002 sid:1882]: w 
+Jan 20 12:47:22 horus snoopy[1886]: [acaldero, uid:3002 sid:1882]: ssh root@ssh 
+Jan 20 12:47:27 horus snoopy[1890]: [root, uid:0 sid:1890]: -bash 
+Jan 20 12:47:27 horus snoopy[1892]: [root, uid:0 sid:1890]: id -u 
+Jan 20 12:47:27 horus snoopy[1893]: [root, uid:0 sid:1890]: mesg n 
+Jan 20 12:47:30 horus snoopy[1894]: [root, uid:0 sid:1890]: ls 
+Jan 20 12:47:31 horus snoopy[1895]: [root, uid:0 sid:1890]: ls -las 
+Jan 20 12:47:42 horus snoopy[1902]: [root, uid:0 sid:1890]: vi /etc/hosts.deny 
+Jan 20 12:47:48 horus snoopy[1905]: [root, uid:0 sid:1890]: vi /etc/hosts.allow 
+Jan 20 12:48:21 horus snoopy[1908]: [ssdd, uid:1003 sid:25554]: man gethostbyname 
+Jan 20 12:49:44 horus snoopy[1926]: [root, uid:0 sid:1890]: sync 
+Jan 20 12:59:24 horus snoopy[2385]: [ssdd, uid:1003 sid:25554]: man hostent 
+Jan 20 12:59:28 horus snoopy[2386]: [ssdd, uid:1003 sid:25554]: man struct hostent 
+Jan 20 12:59:36 horus snoopy[2387]: [ssdd, uid:1003 sid:25554]: man memcpy 
+Jan 20 13:05:56 horus snoopy[2881]: [ssdd, uid:1003 sid:25554]: man gethostbyaddr 
+Jan 20 13:18:02 horus snoopy[3376]: [ssdd, uid:1003 sid:25554]: man inet_aton 
+Jan 20 14:30:32 horus snoopy[6806]: [agarcia, uid:1061 sid:6806]: -bash 
+Jan 20 14:30:32 horus snoopy[6808]: [agarcia, uid:1061 sid:6806]: id -u 
+Jan 20 14:30:32 horus snoopy[6810]: [agarcia, uid:1061 sid:6806]: dircolors -b 
+Jan 20 14:30:34 horus snoopy[6811]: [agarcia, uid:1061 sid:6806]: clear 
+Jan 20 14:30:40 horus snoopy[6812]: [agarcia, uid:1061 sid:6806]: man lsman 
+Jan 20 14:30:59 horus snoopy[6813]: [agarcia, uid:1061 sid:6806]: man getattr 
+Jan 20 14:31:03 horus snoopy[6814]: [agarcia, uid:1061 sid:6806]: man getattr 
+Jan 20 14:31:06 horus snoopy[6815]: [agarcia, uid:1061 sid:6806]: man readdir 
+Jan 20 14:31:39 horus snoopy[6835]: [agarcia, uid:1061 sid:6806]: man getattr 
+Jan 20 14:31:51 horus snoopy[6836]: [agarcia, uid:1061 sid:6806]: ls --color=auto 
+Jan 20 14:32:19 horus snoopy[6841]: [agarcia, uid:1061 sid:6806]: man ls 
+Jan 20 15:22:50 horus snoopy[9147]: [fjblas, uid:113 sid:9147]: -bash 
+Jan 20 15:22:50 horus snoopy[9149]: [fjblas, uid:113 sid:9147]: id -u 
+Jan 20 15:22:50 horus snoopy[9151]: [fjblas, uid:113 sid:9147]: dircolors -b 
+Jan 20 17:24:57 horus snoopy[14637]: [agarcia, uid:1061 sid:6806]: man fcreate 
+Jan 20 17:25:00 horus snoopy[14638]: [agarcia, uid:1061 sid:6806]: man fopen 
+Jan 20 17:25:47 horus snoopy[14881]: [agarcia, uid:1061 sid:6806]: man fclose 
+Jan 20 17:25:52 horus snoopy[14899]: [agarcia, uid:1061 sid:6806]: man fopen 
+Jan 20 17:27:41 horus snoopy[14917]: [agarcia, uid:1061 sid:6806]: man malloc 
+Jan 20 17:28:09 horus snoopy[14935]: [agarcia, uid:1061 sid:6806]: man memset 
+Jan 20 17:29:34 horus snoopy[14953]: [agarcia, uid:1061 sid:6806]: man fopen 
+Jan 20 17:31:28 horus snoopy[15194]: [agarcia, uid:1061 sid:6806]: man fwrite 
+Jan 20 17:32:16 horus snoopy[15218]: [agarcia, uid:1061 sid:6806]: man write 
+Jan 20 17:32:20 horus snoopy[15238]: [agarcia, uid:1061 sid:6806]: man 2 write 
+Jan 20 17:33:09 horus snoopy[15256]: [agarcia, uid:1061 sid:6806]: man systime 
+Jan 20 17:33:11 horus snoopy[15257]: [agarcia, uid:1061 sid:6806]: man time 
+Jan 20 17:33:15 horus snoopy[15277]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 17:39:34 horus snoopy[15532]: [agarcia, uid:1061 sid:6806]: man date 
+Jan 20 17:39:38 horus snoopy[15549]: [agarcia, uid:1061 sid:6806]: man 2 date 
+Jan 20 17:39:41 horus snoopy[15550]: [agarcia, uid:1061 sid:6806]: man 3 date 
+Jan 20 17:39:44 horus snoopy[15551]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 17:39:51 horus snoopy[15569]: [agarcia, uid:1061 sid:6806]: man 3 ftime 
+Jan 20 17:41:28 horus snoopy[15810]: [agarcia, uid:1061 sid:6806]: man gettimeofday 
+Jan 20 17:42:39 horus snoopy[15828]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 17:43:20 horus snoopy[15846]: [agarcia, uid:1061 sid:6806]: man date 
+Jan 20 17:43:26 horus snoopy[15863]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 17:43:34 horus snoopy[15881]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 17:43:45 horus snoopy[15899]: [agarcia, uid:1061 sid:6806]: man gettimeofday 
+Jan 20 17:43:58 horus snoopy[15917]: [agarcia, uid:1061 sid:6806]: clear 
+Jan 20 17:44:00 horus snoopy[15918]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 17:45:00 horus snoopy[15936]: [agarcia, uid:1061 sid:6806]: man fwrite 
+Jan 20 17:45:10 horus snoopy[16181]: [agarcia, uid:1061 sid:6806]: man write 
+Jan 20 17:45:17 horus snoopy[16201]: [agarcia, uid:1061 sid:6806]: man stringf 
+Jan 20 17:45:22 horus snoopy[16202]: [agarcia, uid:1061 sid:6806]: man fstring 
+Jan 20 17:45:29 horus snoopy[16203]: [agarcia, uid:1061 sid:6806]: man format 
+Jan 20 17:45:33 horus snoopy[16204]: [agarcia, uid:1061 sid:6806]: man string.h 
+Jan 20 17:45:36 horus snoopy[16205]: [agarcia, uid:1061 sid:6806]: man string 
+Jan 20 17:46:25 horus snoopy[16223]: [agarcia, uid:1061 sid:6806]: man strxfmt 
+Jan 20 17:46:30 horus snoopy[16224]: [agarcia, uid:1061 sid:6806]: man 2 strxfmt 
+Jan 20 17:46:32 horus snoopy[16225]: [agarcia, uid:1061 sid:6806]: man 3 strxfmt 
+Jan 20 17:46:34 horus snoopy[16226]: [agarcia, uid:1061 sid:6806]: man string 
+Jan 20 17:46:46 horus snoopy[16244]: [agarcia, uid:1061 sid:6806]: man 3 strxfmr 
+Jan 20 17:46:50 horus snoopy[16245]: [agarcia, uid:1061 sid:6806]: man 3 strxfrm 
+Jan 20 17:47:06 horus snoopy[16263]: [agarcia, uid:1061 sid:6806]: man fscanf 
+Jan 20 17:48:01 horus snoopy[16283]: [agarcia, uid:1061 sid:6806]: man stdarg 
+Jan 20 17:48:09 horus snoopy[16301]: [agarcia, uid:1061 sid:6806]: man fscanf 
+Jan 20 17:48:20 horus snoopy[16321]: [agarcia, uid:1061 sid:6806]: man printf 
+Jan 20 17:48:27 horus snoopy[16341]: [agarcia, uid:1061 sid:6806]: man 2 printf 
+Jan 20 17:48:30 horus snoopy[16342]: [agarcia, uid:1061 sid:6806]: man 3 printf 
+Jan 20 17:50:06 horus snoopy[16583]: [agarcia, uid:1061 sid:6806]: man asctime 
+Jan 20 17:51:38 horus snoopy[16603]: [agarcia, uid:1061 sid:6806]: clear 
+Jan 20 17:56:11 horus snoopy[16829]: [agarcia, uid:1061 sid:6806]: man fopen 
+Jan 20 18:02:24 horus snoopy[17083]: [agarcia, uid:1061 sid:6806]: man fprintf 
+Jan 20 18:25:14 horus snoopy[18241]: [agarcia, uid:1061 sid:6806]: man asctime 
+Jan 20 18:28:42 horus snoopy[18262]: [agarcia, uid:1061 sid:6806]: man time 
+Jan 20 18:28:45 horus snoopy[18282]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 18:28:56 horus snoopy[18300]: [agarcia, uid:1061 sid:6806]: man asctime 
+Jan 20 18:29:11 horus snoopy[18320]: [agarcia, uid:1061 sid:6806]: man tm 
+Jan 20 18:29:21 horus snoopy[18323]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 18:29:33 horus snoopy[18342]: [agarcia, uid:1061 sid:6806]: man 2 gettimeofday 
+Jan 20 18:29:48 horus snoopy[18360]: [agarcia, uid:1061 sid:6806]: man 2 ftime 
+Jan 20 18:29:52 horus snoopy[18361]: [agarcia, uid:1061 sid:6806]: man ftime 
+Jan 20 18:30:02 horus snoopy[18388]: [agarcia, uid:1061 sid:6806]: man 2 ctime 
+Jan 20 18:30:05 horus snoopy[18507]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 18:30:41 horus snoopy[18621]: [agarcia, uid:1061 sid:6806]: man localtime 
+Jan 20 18:31:09 horus snoopy[18641]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 18:37:54 horus snoopy[18894]: [agarcia, uid:1061 sid:6806]: man ctiem 
+Jan 20 18:37:57 horus snoopy[18895]: [agarcia, uid:1061 sid:6806]: man time 
+Jan 20 18:38:00 horus snoopy[18915]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 18:38:36 horus snoopy[18933]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 18:40:55 horus snoopy[19182]: [agarcia, uid:1061 sid:6806]: man ctime 
+Jan 20 18:41:36 horus snoopy[19200]: [agarcia, uid:1061 sid:6806]: man time_t 
+Jan 20 18:41:41 horus snoopy[19201]: [agarcia, uid:1061 sid:6806]: man 2 time 
+Jan 20 18:58:58 horus snoopy[19917]: [agarcia, uid:1061 sid:6806]: man flush 
+Jan 20 18:59:02 horus snoopy[19934]: [agarcia, uid:1061 sid:6806]: man 2 flush 
+Jan 20 18:59:05 horus snoopy[19935]: [agarcia, uid:1061 sid:6806]: man 3 flush 
+Jan 20 18:59:09 horus snoopy[19936]: [agarcia, uid:1061 sid:6806]: man 4 flush 
+Jan 20 18:59:15 horus snoopy[19937]: [agarcia, uid:1061 sid:6806]: man fprintf 
+Jan 20 19:03:36 horus snoopy[20193]: [agarcia, uid:1061 sid:6806]: man fopen 
+Jan 20 19:04:03 horus snoopy[20211]: [agarcia, uid:1061 sid:6806]: man fclose 
+Jan 20 23:49:57 horus snoopy[868]: [acaldero, uid:3002 sid:868]: -bash 
+Jan 20 23:49:57 horus snoopy[871]: [acaldero, uid:3002 sid:868]: id -u 
+Jan 20 23:49:58 horus snoopy[872]: [acaldero, uid:3002 sid:868]: w 
+Jan 20 23:50:00 horus snoopy[873]: [acaldero, uid:3002 sid:868]: top 
+Jan 21 00:57:39 horus snoopy[4244]: [acaldero, uid:3002 sid:868]: ls -als sn* 
+Jan 21 00:57:41 horus snoopy[4245]: [acaldero, uid:3002 sid:868]: ls 
+Jan 21 00:57:56 horus snoopy[4246]: [acaldero, uid:3002 sid:868]: grep snoopy auth.log bootstrap.log daemon.log dpkg.log fail2ban.log fontconfig.log kern.log lpr.log mail.log mysql.log ntp.log openvpn-status.log pycentral.log user.log uucp.log 
+Jan 21 00:58:00 horus snoopy[4248]: [acaldero, uid:3002 sid:868]: grep snoopy apache2 aprsd apt aptitude aptitude.1.gz aptitude.2.gz auth.log auth.log.0 auth.log.1.gz auth.log.2.gz auth.log.3.gz auth.log.4.gz auth.log.5.gz auth.log.6.gz boot bootstrap.log btmp btmp.1 daemon.log daemon.log.0 daemon.log.1.gz daemon.log.2.gz daemon.log.3.gz daemon.log.4.gz daemon.log.5.gz daemon.log.6.gz dbconfig-common debug debug.0 debug.1.gz debug.2.gz debug.3.gz denyhosts denyhosts.1.gz denyhosts.2.gz denyhosts.3.gz denyhosts.4.gz denyhosts.5.gz denyhosts.6.gz dmesg dmesg.0 dmesg.1.gz dmesg.2.gz dmesg.3.gz dmesg.4.gz dpkg.log dpkg.log.1 dpkg.log.10.gz dpkg.log.11.gz dpkg.log.2.gz dpkg.log.3.gz dpkg.log.4.gz dpkg.log.5.gz dpkg.log.6.gz dpkg.log.7.gz dpkg.log.8.gz dpkg.log.9.gz fail2ban.log fail2ban.log.1 fail2ban.log.2.gz fail2ban.log.3.gz fail2ban.log.4.gz faillog fontconfig.log fsck kern.log kern.log.0 kern.log.1.gz kern.log.2.gz kern.log.3.gz lastlog lpr.log mail.err mail.err.0 mail.err.1.gz mail.info mail.info.0 mail.info
+Jan 21 00:58:07 horus snoopy[4250]: [acaldero, uid:3002 sid:868]: whoami 
+Jan 21 00:58:09 horus snoopy[4251]: [acaldero, uid:3002 sid:868]: ssh root@ssh 
+Jan 21 00:58:12 horus snoopy[4255]: [root, uid:0 sid:4255]: -bash 
+Jan 21 00:58:12 horus snoopy[4257]: [root, uid:0 sid:4255]: id -u 
+Jan 21 00:58:12 horus snoopy[4258]: [root, uid:0 sid:4255]: mesg n 
+Jan 21 00:58:24 horus snoopy[4259]: [root, uid:0 sid:4255]: ls 
+Jan 21 00:58:25 horus snoopy[4260]: [root, uid:0 sid:4255]: vi auth.log 
+Jan 21 00:58:55 horus snoopy[4263]: [root, uid:0 sid:4255]: grep snoopy auth.log 
+Jan 21 00:58:58 horus snoopy[4265]: [root, uid:0 sid:4255]: vi /tmp/jan.snoopy.txt 
+Jan 21 00:59:08 horus snoopy[4268]: [root, uid:0 sid:4255]: ls -las auth.log auth.log.0 auth.log.1.gz auth.log.2.gz auth.log.3.gz auth.log.4.gz auth.log.5.gz auth.log.6.gz 
+Jan 21 00:59:20 horus snoopy[4269]: [root, uid:0 sid:4255]: grep snoopy auth.log auth.log.0 
+Jan 21 00:59:23 horus snoopy[4271]: [root, uid:0 sid:4255]: vi /tmp/jan.snoopy.txt 
+Jan 21 00:59:37 horus snoopy[4274]: [root, uid:0 sid:4255]: grep snoopy auth.log auth.log.0 
+Jan 21 00:59:41 horus snoopy[4275]: [root, uid:0 sid:4255]: wc /tmp/jan.snoopy.txt 
+Jan 21 00:59:44 horus snoopy[4276]: [root, uid:0 sid:4255]: vi /tmp/jan.snoopy.txt 
+Jan 21 00:59:54 horus snoopy[4279]: [root, uid:0 sid:4255]: ls -als auth.log 
+Jan 21 01:00:14 horus snoopy[4520]: [root, uid:0 sid:4255]: zgrep snoopy auth.log auth.log.1.gz auth.log.2.gz auth.log.3.gz auth.log.4.gz auth.log.5.gz auth.log.6.gz 
+Jan 21 01:00:14 horus snoopy[4525]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log 
+Jan 21 01:00:14 horus snoopy[4534]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log.1.gz 
+Jan 21 01:00:14 horus snoopy[4542]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log.2.gz 
+Jan 21 01:00:14 horus snoopy[4550]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log.3.gz 
+Jan 21 01:00:15 horus snoopy[4558]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log.4.gz 
+Jan 21 01:00:15 horus snoopy[4565]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log.5.gz 
+Jan 21 01:00:15 horus snoopy[4574]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log.6.gz 
+Jan 21 01:00:18 horus snoopy[4578]: [root, uid:0 sid:4255]: vi /tmp/jan.snoopy.txt 
+Jan 21 01:01:07 horus snoopy[4581]: [root, uid:0 sid:4255]: vi jan.snoopy.txt 
+Jan 21 01:01:37 horus snoopy[4584]: [root, uid:0 sid:4255]: zgrep snoopy auth.log 
+Jan 21 01:01:37 horus snoopy[4589]: [root, uid:0 sid:4255]: gzip -cdfq -- auth.log 
+Jan 18 11:44:34 horus snoopy[27327]: [florin, uid:5201 sid:27327]: -bash 
+Jan 18 11:44:34 horus snoopy[27329]: [florin, uid:5201 sid:27327]: id -u 
+Jan 18 11:44:39 horus snoopy[27330]: [florin, uid:5201 sid:27327]: ssh ii_ac2_en 
+Jan 18 11:44:44 horus snoopy[27331]: [florin, uid:5201 sid:27327]: ssh ii_ac2_en@ssh 
+Jan 18 11:44:44 horus snoopy[27335]: [ii_ac2_en, uid:5204 sid:27335]: -bash 
+Jan 18 11:44:44 horus snoopy[27337]: [ii_ac2_en, uid:5204 sid:27335]: id -u 
+Jan 18 11:44:46 horus snoopy[27338]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:44:50 horus snoopy[27339]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:44:57 horus snoopy[27340]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:45:38 horus snoopy[27566]: [ii_ac2_en, uid:5204 sid:27335]: ls -l 
+Jan 18 11:45:49 horus snoopy[27567]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:45:53 horus snoopy[27568]: [ii_ac2_en, uid:5204 sid:27335]: ls -l 
+Jan 18 11:45:57 horus snoopy[27569]: [ii_ac2_en, uid:5204 sid:27335]: ls papers/ 
+Jan 18 11:46:04 horus snoopy[27570]: [ii_ac2_en, uid:5204 sid:27335]: ls dokuwiki/ 
+Jan 18 11:46:09 horus snoopy[27571]: [ii_ac2_en, uid:5204 sid:27335]: ls dokuwiki/data/ 
+Jan 18 11:46:29 horus snoopy[27572]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:46:42 horus snoopy[27573]: [ii_ac2_en, uid:5204 sid:27335]: ls -l 
+Jan 18 11:46:49 horus snoopy[27574]: [ii_ac2_en, uid:5204 sid:27335]: locate AC2_2009_Lecture_5.ppt 
+Jan 18 11:46:54 horus snoopy[27575]: [ii_ac2_en, uid:5204 sid:27335]: locate AC2_2010_Lecture_5.ppt 
+Jan 18 11:47:11 horus snoopy[27576]: [ii_ac2_en, uid:5204 sid:27335]: find . -name AC2_2010_Lecture_5.ppt 
+Jan 18 11:47:15 horus snoopy[27577]: [ii_ac2_en, uid:5204 sid:27335]: find . -name AC2_2009_Lecture_5.ppt 
+Jan 18 11:51:34 horus snoopy[27801]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:51:47 horus snoopy[27802]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:51:49 horus snoopy[27803]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:08 horus snoopy[27804]: [ii_ac2_en, uid:5204 sid:27335]: ls ii_ac2 
+Jan 18 11:52:17 horus snoopy[27805]: [ii_ac2_en, uid:5204 sid:27335]: ls ii_ac2/2009-2010/ 
+Jan 18 11:52:22 horus snoopy[27806]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:24 horus snoopy[27807]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:35 horus snoopy[27808]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:38 horus snoopy[27809]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:41 horus snoopy[27810]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:49 horus snoopy[27811]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:52:51 horus snoopy[27812]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:54:46 horus snoopy[27813]: [ii_ac2_en, uid:5204 sid:27335]: tar tzf public_html 
+Jan 18 11:55:00 horus snoopy[27816]: [ii_ac2_en, uid:5204 sid:27335]: tar tzf public_html.tgz 
+Jan 18 11:55:06 horus snoopy[28043]: [ii_ac2_en, uid:5204 sid:27335]: ls -la 
+Jan 18 11:55:15 horus snoopy[28044]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:55:27 horus snoopy[28046]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:56:07 horus snoopy[28047]: [ii_ac2_en, uid:5204 sid:27335]: ls -la 
+Jan 18 11:56:14 horus snoopy[28048]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:56:17 horus snoopy[28049]: [ii_ac2_en, uid:5204 sid:27335]: ls -la 
+Jan 18 11:56:20 horus snoopy[28050]: [ii_ac2_en, uid:5204 sid:27335]: ls assign/ 
+Jan 18 11:56:35 horus snoopy[28051]: [ii_ac2_en, uid:5204 sid:27335]: ls -la 
+Jan 18 11:56:49 horus snoopy[28052]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:58:25 horus snoopy[28053]: [ii_ac2_en, uid:5204 sid:27335]: ls -l 
+Jan 18 11:58:39 horus snoopy[28054]: [ii_ac2_en, uid:5204 sid:27335]: ls -l 
+Jan 18 11:58:45 horus snoopy[28055]: [ii_ac2_en, uid:5204 sid:27335]: ls -la 
+Jan 18 11:58:55 horus snoopy[28056]: [ii_ac2_en, uid:5204 sid:27335]: ls .ssh/ 
+Jan 18 11:59:12 horus snoopy[28057]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:59:15 horus snoopy[28058]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:59:23 horus snoopy[28059]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 11:59:28 horus snoopy[28060]: [ii_ac2_en, uid:5204 sid:27335]: ls attic cache locks media meta pages 
+Jan 18 11:59:36 horus snoopy[28061]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 12:00:25 horus snoopy[28341]: [ii_ac2_en, uid:5204 sid:27335]: ls 
+Jan 18 12:00:50 horus snoopy[28342]: [ii_ac2_en, uid:5204 sid:27335]: ls ac2_2010_lecture_1.ppt ac2_2010_lecture_2.ppt ac2_2010_lecture_4.ppt ac2_2010_lecture_5.ppt ac2_2010_lecture_6.ppt ac2_2010_lecture_7.ppt ac2_2010_lecture_8.ppt ac2_2010_lecture_9.ppt mpi.ppt openmp.ppt thakur-mpi-io.ppt threads.ppt 
+Jan 18 12:01:07 horus snoopy[28343]: [ii_ac2_en, uid:5204 sid:27335]: mkdir slides 
+Jan 18 12:01:13 horus snoopy[28344]: [ii_ac2_en, uid:5204 sid:27335]: cp ac2_2010_lecture_1.ppt ac2_2010_lecture_2.ppt ac2_2010_lecture_4.ppt ac2_2010_lecture_5.ppt ac2_2010_lecture_6.ppt ac2_2010_lecture_7.ppt ac2_2010_lecture_8.ppt ac2_2010_lecture_9.ppt mpi.ppt openmp.ppt thakur-mpi-io.ppt threads.ppt slides/ 
+Jan 18 12:01:41 horus snoopy[28345]: [ii_ac2_en, uid:5204 sid:27335]: tar czf ac2slides2010.tgz slides/ 
+Jan 18 12:02:07 horus snoopy[28355]: [florin, uid:5201 sid:28355]: -bash 
+Jan 18 12:02:07 horus snoopy[28357]: [florin, uid:5201 sid:28355]: id -u 
+Jan 18 12:02:38 horus snoopy[28358]: [florin, uid:5201 sid:28355]: scp ii_ac2_en@ssh:~/public_html/dok
+Jan 18 12:46:20 horus snoopy[30425]: [infosd, uid:1110 sid:30425]: -bash 
+Jan 18 12:46:20 horus snoopy[30427]: [infosd, uid:1110 sid:30425]: id -u 
+Jan 18 12:46:20 horus snoopy[30429]: [infosd, uid:1110 sid:30425]: dircolors -b 
+Jan 18 12:46:50 horus snoopy[30434]: [infosd, uid:1110 sid:30434]: -bash 
+Jan 18 12:46:50 horus snoopy[30436]: [infosd, uid:1110 sid:30434]: id -u 
+Jan 18 12:46:50 horus snoopy[30438]: [infosd, uid:1110 sid:30434]: dircolors -b 
+Jan 18 12:46:52 horus snoopy[30439]: [infosd, uid:1110 sid:30434]: ls --color=auto 
+Jan 18 12:46:59 horus snoopy[30440]: [infosd, uid:1110 sid:30434]: ls --color=auto 
+Jan 18 12:48:31 horus snoopy[30442]: [infosd, uid:1110 sid:30425]: ls --color=auto -las 
+Jan 18 12:49:05 horus snoopy[30443]: [infosd, uid:1110 sid:30425]: wget http://www.splitbrain.org/_medi
+Jan 18 12:49:08 horus snoopy[30444]: [infosd, uid:1110 sid:30425]: tar zxf dokuwiki-2010-11-07a.tgz 
+Jan 18 12:49:17 horus snoopy[30447]: [infosd, uid:1110 sid:30425]: du 
+Jan 18 12:49:19 horus snoopy[30448]: [infosd, uid:1110 sid:30425]: ls --color=auto -las 
+Jan 18 12:49:23 horus snoopy[30449]: [infosd, uid:1110 sid:30425]: du 
+Jan 18 12:49:28 horus snoopy[30450]: [infosd, uid:1110 sid:30425]: du 
+Jan 18 12:49:30 horus snoopy[30451]: [infosd, uid:1110 sid:30425]: sync 
+Jan 18 12:49:33 horus snoopy[30452]: [infosd, uid:1110 sid:30425]: du 
+Jan 18 12:49:37 horus snoopy[30453]: [infosd, uid:1110 sid:30425]: du -mh -s . 
+Jan 18 12:49:40 horus snoopy[30454]: [infosd, uid:1110 sid:30425]: du -mh -s . 
+Jan 18 12:49:42 horus snoopy[30455]: [infosd, uid:1110 sid:30425]: sync 
+Jan 18 12:51:07 horus snoopy[30682]: [infosd, uid:1110 sid:30425]: du -mh -s . 
+Jan 18 12:51:28 horus snoopy[30683]: [infosd, uid:1110 sid:30425]: du -mh -s . 
+Jan 18 12:51:32 horus snoopy[30684]: [infosd, uid:1110 sid:30425]: ls --color=auto -las 
+Jan 18 12:51:34 horus snoopy[30685]: [infosd, uid:1110 sid:30425]: rm dokuwiki-2010-11-07a.tgz 
+Jan 18 12:51:35 horus snoopy[30686]: [infosd, uid:1110 sid:30425]: ls --color=auto -las 
+Jan 18 12:51:37 horus snoopy[30687]: [infosd, uid:1110 sid:30425]: mv dokuwiki-2010-11-07a/bin dokuwiki-2010-11-07a/conf dokuwiki-2010-11-07a/COPYING dokuwiki-2010-11-07a/data dokuwiki-2010-11-07a/doku.php dokuwiki-2010-11-07a/feed.php dokuwiki-2010-11-07a/inc dokuwiki-2010-11-07a/index.php dokuwiki-2010-11-07a/install.ph
+Jan 18 12:51:39 horus snoopy[30688]: [infosd, uid:1110 sid:30425]: ls --color=auto -las doku 
+Jan 18 12:51:42 horus snoopy[30689]: [infosd, uid:1110 sid:30425]: ls --color=auto -las 
+Jan 18 12:51:44 horus snoopy[30690]: [infosd, uid:1110 sid:30425]: mv .htaccess.dist .. 
+Jan 18 12:51:48 horus snoopy[30691]: [infosd, uid:1110 sid:30425]: rmdir dokuwiki-2010-11-07a/ 
+Jan 18 12:51:49 horus snoopy[30692]: [infosd, uid:1110 sid:30425]: ls --color=auto -als 
+Jan 18 12:51:50 horus snoopy[30693]: [infosd, uid:1110 sid:30425]: sync 
+Jan 18 12:52:04 horus snoopy[30694]: [infosd, uid:1110 sid:30425]: ssh root@ssh 
+Jan 18 12:52:40 horus snoopy[30698]: [root, uid:0 sid:30698]: -bash 
+Jan 18 12:52:40 horus snoopy[30700]: [root, uid:0 sid:30698]: id -u 
+Jan 18 12:52:40 horus snoopy[30701]: [root, uid:0 sid:30698]: mesg n 
+Jan 18 12:52:45 horus snoopy[30702]: [root, uid:0 sid:30698]: vi /etc/group 
+Jan 18 12:52:56 horus snoopy[30705]: [root, uid:0 sid:30698]: sync 
+Jan 18 12:52:58 horus snoopy[30706]: [infosd, uid:1110 sid:30425]: ls --color=auto -las 
+Jan 18 12:53:16 horus snoopy[30711]: [infosd, uid:1110 sid:30711]: -bash 
+Jan 18 12:53:16 horus snoopy[30713]: [infosd, uid:1110 sid:30711]: id -u 
+Jan 18 12:53:16 horus snoopy[30715]: [infosd, uid:1110 sid:30711]: dircolors -b 
+Jan 18 12:53:17 horus snoopy[30716]: [infosd, uid:1110 sid:30711]: ls --color=auto -las 
+Jan 18 12:53:18 horus snoopy[30717]: [infosd, uid:1110 sid:30711]: sync 
+Jan 18 12:53:20 horus snoopy[30718]: [infosd, uid:1110 sid:30711]: ls --color=auto -las 
+Jan 18 12:53:21 horus snoopy[30719]: [infosd, uid:1110 sid:30711]: id 
+Jan 18 12:53:40 horus snoopy[30720]: [infosd, uid:1110 sid:30711]: chmod -R g+w bin conf COPYING data doku.php feed.php inc index.php install.php lib README VERSION 
+Jan 18 12:53:44 horus snoopy[30721]: [infosd, uid:1110 sid:30711]: sync 
+Jan 18 12:53:50 horus snoopy[30722]: [infosd, uid:1110 sid:30711]: ls --color=auto -las 
+Jan 18 12:53:52 horus snoopy[30723]: [infosd, uid:1110 sid:30711]: sync 
+Jan 18 12:54:09 horus snoopy[30724]: [infosd, uid:1110 sid:30711]: ssh root@ssh 
+Jan 18 12:54:20 horus snoopy[30729]: [root, uid:0 sid:30729]: -bash 
+Jan 18 12:54:20 horus snoopy[30731]: [root, uid:0 sid:30729]: id -u 
+Jan 18 12:54:20 horus snoopy[30732]: [root, uid:0 sid:30729]: mesg n 
+Jan 18 12:56:13 horus snoopy[30958]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:56:20 horus snoopy[30959]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:56:30 horus snoopy[30960]: [root, uid:0 sid:30729]: chgrp -R www-data . 
+Jan 18 12:56:34 horus snoopy[30961]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:57:44 horus snoopy[30963]: [root, uid:0 sid:30729]: chmod 000 install.php 
+Jan 18 12:57:45 horus snoopy[30964]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:57:53 horus snoopy[30965]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:57:55 horus snoopy[30966]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:58:01 horus snoopy[30967]: [root, uid:0 sid:30729]: chmod 000 install.php 
+Jan 18 12:58:02 horus snoopy[30968]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:58:06 horus snoopy[30969]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:58:36 horus snoopy[30970]: [root, uid:0 sid:30729]: ls -als 
+Jan 18 12:58:43 horus snoopy[30971]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:58:44 horus snoopy[30972]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 12:58:59 horus snoopy[30973]: [root, uid:0 sid:30729]: cp /mnt/home/docencia/gii/infodso/
+Jan 18 12:59:02 horus snoopy[30974]: [root, uid:0 sid:30729]: vi local.protected.php 
+Jan 18 13:00:56 horus snoopy[31221]: [infoac_en, uid:1125 sid:31221]: -bash 
+Jan 18 13:00:56 horus snoopy[31223]: [infoac_en, uid:1125 sid:31221]: id -u 
+Jan 18 13:00:56 horus snoopy[31225]: [infoac_en, uid:1125 sid:31221]: dircolors -b 
+Jan 18 13:00:59 horus snoopy[31226]: [infoac_en, uid:1125 sid:31221]: ls --color=auto 
+Jan 18 13:01:06 horus snoopy[31227]: [infoac_en, uid:1125 sid:31221]: ls --color=auto 
+Jan 18 13:01:11 horus snoopy[31228]: [infoac_en, uid:1125 sid:31221]: ls --color=auto 
+Jan 18 13:01:16 horus snoopy[31229]: [infoac_en, uid:1125 sid:31221]: cp /tmp/public_html.tgz . 
+Jan 18 13:01:23 horus snoopy[31230]: [infoac_en, uid:1125 sid:31221]: tar zxf public_html.tgz 
+Jan 18 13:02:23 horus snoopy[31236]: [infoac_en, uid:1125 sid:31221]: ls --color=auto 
+Jan 18 13:02:28 horus snoopy[31237]: [infoac_en, uid:1125 sid:31221]: rm public_html.tgz 
+Jan 18 13:02:33 horus snoopy[31238]: [infoac_en, uid:1125 sid:31221]: vim index.html 
+Jan 18 13:02:37 horus snoopy[31241]: [root, uid:0 sid:30729]: sync 
+Jan 18 13:02:49 horus snoopy[31242]: [root, uid:0 sid:30729]: ls -las 
+Jan 18 13:02:57 horus snoopy[31243]: [infoac_en, uid:1125 sid:31221]: ls --color=auto 
+Jan 18 13:02:58 horus snoopy[31244]: [root, uid:0 sid:30729]: ls -las ../infodso 
+Jan 18 13:03:02 horus snoopy[31245]: [root, uid:0 sid:30729]: cat 
+Jan 18 13:03:07 horus snoopy[31246]: [infoac_en, uid:1125 sid:31221]: chmod -R 777 data/ 
+Jan 18 13:03:19 horus snoopy[31247]: [root, uid:0 sid:30729]: sync 
+Jan 18 15:24:41 horus snoopy[5277]: [infoac_en, uid:1125 sid:31221]: ls --color=auto 
+Jan 18 15:24:45 horus snoopy[5278]: [infoac_en, uid:1125 sid:31221]: vim dokuwiki.php 
+Jan 18 15:24:58 horus snoopy[5282]: [infoac_en, uid:1125 sid:31221]: grep peratin acl.auth.php acl.auth.php.dist acronyms.conf dokuwiki.php entities.conf interwiki.conf local.php local.php.bak local.php.dist local.protected.php mediameta.php mime.conf msg mysql.conf.php.example smileys.conf users.auth.php users.auth.php.dist wordblock.conf words.aspell.dist 
+Jan 18 15:25:06 horus snoopy[5508]: [infoac_en, uid:1125 sid:31221]: vim local.php 
+Jan 18 15:25:26 horus snoopy[5511]: [infoac_en, uid:1125 sid:31221]: finger 
+Jan 18 16:55:46 horus snoopy[9635]: [agarcia, uid:1061 sid:9635]: -bash 
+Jan 18 16:55:46 horus snoopy[9637]: [agarcia, uid:1061 sid:9635]: id -u 
+Jan 18 16:55:46 horus snoopy[9639]: [agarcia, uid:1061 sid:9635]: dircolors -b 
+Jan 18 16:55:54 horus snoopy[9640]: [agarcia, uid:1061 sid:9635]: man str 
+Jan 18 16:56:01 horus snoopy[9641]: [agarcia, uid:1061 sid:9635]: man string.h 
+Jan 18 16:56:03 horus snoopy[9642]: [agarcia, uid:1061 sid:9635]: man string 
+Jan 18 16:56:35 horus snoopy[9660]: [agarcia, uid:1061 sid:9635]: man strcat 
+Jan 18 17:18:01 horus snoopy[10615]: [agarcia, uid:1061 sid:9635]: clear 
+Jan 18 17:18:02 horus snoopy[10616]: [agarcia, uid:1061 sid:9635]: ls --color=auto 
+Jan 18 17:18:03 horus snoopy[10617]: [agarcia, uid:1061 sid:9635]: clear 
+Jan 18 17:18:07 horus snoopy[10618]: [agarcia, uid:1061 sid:9635]: man strcat 
+Jan 18 17:44:44 horus snoopy[11781]: [agarcia, uid:1061 sid:9635]: man lstat 
+Jan 18 18:06:10 horus snoopy[12939]: [agarcia, uid:1061 sid:9635]: man read 
+Jan 18 18:37:37 horus snoopy[14322]: [agarcia, uid:1061 sid:9635]: man lstat 
+Jan 18 18:45:47 horus snoopy[14799]: [agarcia, uid:1061 sid:9635]: man open 
+Jan 18 18:45:53 horus snoopy[14818]: [agarcia, uid:1061 sid:9635]: man 2 open 
+Jan 18 18:50:39 horus snoopy[15059]: [agarcia, uid:1061 sid:9635]: man close 
+Jan 18 19:03:19 horus snoopy[15543]: [acaldero, uid:3002 sid:15543]: -bash 
+Jan 18 19:03:19 horus snoopy[15545]: [acaldero, uid:3002 sid:15543]: id -u 
+Jan 18 19:03:23 horus snoopy[15546]: [acaldero, uid:3002 sid:15543]: ls -las 
+Jan 18 19:03:27 horus snoopy[15547]: [acaldero, uid:3002 sid:15543]: rm -fr codigo/ entregables/ informes/ 
+Jan 17 16:24:09 horus snoopy[6363]: [dssoo, uid:5074 sid:6363]: -bash 
+Jan 17 16:24:09 horus snoopy[6366]: [dssoo, uid:5074 sid:6363]: id -u 
+Jan 17 16:24:25 horus snoopy[6368]: [dssoo, uid:5074 sid:6363]: clear 
+Jan 17 17:25:21 horus snoopy[9341]: [infoso_en, uid:1079 sid:24281]: ping printer 
+Jan 14 10:58:06 horus snoopy[19380]: [fjblas, uid:113 sid:19380]: -bash 
+Jan 14 10:58:06 horus snoopy[19382]: [fjblas, uid:113 sid:19380]: id -u 
+Jan 14 10:58:06 horus snoopy[19384]: [fjblas, uid:113 sid:19380]: dircolors -b 
+Jan 14 10:58:32 horus snoopy[19385]: [fjblas, uid:113 sid:19380]: ssh infodso_en@localhost 
+Jan 14 10:59:11 horus snoopy[19395]: [infodso_en, uid:1121 sid:19395]: -bash 
+Jan 14 10:59:11 horus snoopy[19397]: [infodso_en, uid:1121 sid:19395]: id -u 
+Jan 14 10:59:11 horus snoopy[19399]: [infodso_en, uid:1121 sid:19395]: dircolors -b 
+Jan 14 10:59:16 horus snoopy[19400]: [infodso_en, uid:1121 sid:19395]: ls --color=auto 
+Jan 14 10:59:19 horus snoopy[19401]: [infodso_en, uid:1121 sid:19395]: vim index.html 
+Jan 14 10:59:39 horus snoopy[19404]: [infodso_en, uid:1121 sid:19395]: ls --color=auto -la 
+Jan 14 11:00:50 horus snoopy[19639]: [infodso_en, uid:1121 sid:19395]: ls --color=auto 
+Jan 14 11:00:52 horus snoopy[19640]: [infodso_en, uid:1121 sid:19395]: ls --color=auto -l 
+Jan 14 11:01:01 horus snoopy[19641]: [infodso_en, uid:1121 sid:19395]: chmod -R 777 data/ 
+Jan 14 11:01:17 horus snoopy[19642]: [infodso_en, uid:1121 sid:19395]: ls --color=auto 
+Jan 14 11:01:21 horus snoopy[19643]: [infodso_en, uid:1121 sid:19395]: grep ldap acl.auth.php acl.auth.php.dist acronyms.conf dokuwiki.php entities.conf interwiki.conf local.php local.php.bak local.php.dist local.protected.php mediameta.php mime.conf msg mysql.conf.php.example smileys.conf users.auth.php users.auth.php.dist wordblock.conf words.aspell.dist 
+Jan 14 11:01:25 horus snoopy[19644]: [infodso_en, uid:1121 sid:19395]: vim local.protected.php 
+Jan 14 11:05:22 horus snoopy[19882]: [infodso_en, uid:1121 sid:19395]: ls --color=auto 
+Jan 14 11:22:21 horus snoopy[20586]: [fjblas, uid:113 sid:20586]: -bash 
+Jan 14 11:22:21 horus snoopy[20588]: [fjblas, uid:113 sid:20586]: id -u 
+Jan 14 11:22:21 horus snoopy[20590]: [fjblas, uid:113 sid:20586]: dircolors -b 
+Jan 14 11:22:32 horus snoopy[20591]: [fjblas, uid:113 sid:20586]: ssh infoso_en@localhost 
+Jan 14 11:24:13 horus snoopy[20595]: [fjblas, uid:113 sid:20586]: finger 
+Jan 14 11:24:17 horus snoopy[20596]: [fjblas, uid:113 sid:20586]: ls --color=auto 
+Jan 14 11:34:49 horus snoopy[21055]: [jdaniel, uid:5077 sid:21055]: -bash 
+Jan 14 11:34:49 horus snoopy[21057]: [jdaniel, uid:5077 sid:21055]: id -u 
+Jan 14 11:35:00 horus snoopy[21062]: [jdaniel, uid:5077 sid:21062]: -bash 
+Jan 14 11:35:00 horus snoopy[21064]: [jdaniel, uid:5077 sid:21062]: id -u 
+Jan 14 11:35:07 horus snoopy[21294]: [jdaniel, uid:5077 sid:21062]: ssh infoac@ssh 
+Jan 14 11:35:07 horus snoopy[21298]: [infoac, uid:1109 sid:21298]: -bash 
+Jan 14 11:35:07 horus snoopy[21300]: [infoac, uid:1109 sid:21298]: id -u 
+Jan 14 11:35:07 horus snoopy[21302]: [infoac, uid:1109 sid:21298]: dircolors -b 
+Jan 14 11:35:14 horus snoopy[21303]: [infoac, uid:1109 sid:21298]: ls --color=auto 
+Jan 14 11:35:18 horus snoopy[21304]: [infoac, uid:1109 sid:21298]: ls --color=auto 
+Jan 14 11:35:45 horus snoopy[21305]: [infoac, uid:1109 sid:21298]: cat local.php 
+Jan 14 11:35:59 horus snoopy[21306]: [infoac, uid:1109 sid:21298]: vi local.protected.php 
+Jan 14 11:51:08 horus snoopy[21994]: [jperez, uid:2007 sid:21994]: -bash 
+Jan 14 11:51:08 horus snoopy[21996]: [jperez, uid:2007 sid:21994]: id -u 
+Jan 14 11:51:08 horus snoopy[21997]: [jperez, uid:2007 sid:21994]: stty istrip 
+Jan 14 11:51:08 horus snoopy[21999]: [jperez, uid:2007 sid:21994]: tty 
+Jan 14 11:51:08 horus snoopy[22000]: [jperez, uid:2007 sid:21994]: desfun/exam/exdic08/so/conexion
+Jan 14 11:51:11 horus snoopy[22001]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:51:45 horus snoopy[22002]: [jperez, uid:2007 sid:21994]: more hello.c 
+Jan 14 11:51:56 horus snoopy[22003]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:52:10 horus snoopy[22004]: [jperez, uid:2007 sid:21994]: more mai 
+Jan 14 11:52:16 horus snoopy[22005]: [jperez, uid:2007 sid:21994]: more main.c 
+Jan 14 11:52:23 horus snoopy[22006]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:52:31 horus snoopy[22007]: [jperez, uid:2007 sid:21994]: ls pruebas/ 
+Jan 14 11:52:36 horus snoopy[22008]: [jperez, uid:2007 sid:21994]: ls pruebas/Ejer1/ 
+Jan 14 11:52:42 horus snoopy[22009]: [jperez, uid:2007 sid:21994]: ls pruebas/Ejer1/Ejercicios.txt 
+Jan 14 11:53:03 horus snoopy[22011]: [jperez, uid:2007 sid:21994]: cat pruebas/Ejer1/Ejercicios.txt 
+Jan 14 11:53:11 horus snoopy[22012]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:53:17 horus snoopy[22013]: [jperez, uid:2007 sid:21994]: ls repOOT/ 
+Jan 14 11:53:26 horus snoopy[22014]: [jperez, uid:2007 sid:21994]: ls ssdd 
+Jan 14 11:53:36 horus snoopy[22015]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:53:47 horus snoopy[22016]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:53:59 horus snoopy[22017]: [jperez, uid:2007 sid:21994]: vi calcular_client.c 
+Jan 14 11:54:21 horus snoopy[22021]: [jperez, uid:2007 sid:21994]: grep mpi calcular_client calcular_client.c calcular_client.o calcular_clnt.c calcular_clnt.o calcular.h calcular_server calcular_server.c calcular_server.o calcular_svc.c calcular_svc.o calcular.x calcular_xdr.c calcular_xdr.o Leeme Makefile.calcular 
+Jan 14 11:54:28 horus snoopy[22022]: [jperez, uid:2007 sid:21994]: vi Leeme 
+Jan 14 11:54:46 horus snoopy[22025]: [jperez, uid:2007 sid:21994]: vi calcular.x 
+Jan 14 11:54:51 horus snoopy[22028]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:54:54 horus snoopy[22029]: [jperez, uid:2007 sid:21994]: more Leeme 
+Jan 14 11:55:03 horus snoopy[22132]: [jperez, uid:2007 sid:21994]: vi calcular_server.c 
+Jan 14 11:55:15 horus snoopy[22258]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:55:18 horus snoopy[22259]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:55:26 horus snoopy[22260]: [jperez, uid:2007 sid:21994]: ls -l 
+Jan 14 11:55:43 horus snoopy[22261]: [jperez, uid:2007 sid:21994]: ls -l sumaVectorialv3 
+Jan 14 11:55:46 horus snoopy[22262]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:56:24 horus snoopy[22263]: [jperez, uid:2007 sid:21994]: ls 
+Jan 14 11:56:32 horus snoopy[22264]: [jperez, uid:2007 sid:21994]: ls ultimavez 
+Jan 14 11:56:38 horus snoopy[22265]: [jperez, uid:2007 sid:21994]: more ultimavez 
+Jan 14 11:56:47 horus snoopy[22266]: [jperez, uid:2007 sid:21994]: grep ultima ~ aweb BACKUP C camtas cap5Memoria.tgz corba curDebian descargas desfun Desktop ejerJava.zip fich hello.c htaccess ii_pstr index.html java jperez@bi.lab.inf.uc3m.es librojava ls2html ls2html2 mail Mail main.c Nautilus ns_imap nsmail pers private_html pruebas public_html repOOT *scratch* serweb ssdd ssoo tiemporeal tmp tmpweb ultimavez 
+Jan 14 11:56:51 horus snoopy[22267]: [jperez, uid:2007 sid:21994]: rm ultimavez 
+Jan 14 11:57:07 horus snoopy[22268]: [jperez, uid:2007 sid:21994]: find . -name *lanca* -print 
+Jan 14 12:35:08 horus snoopy[24198]: [florin, uid:5201 sid:24198]: -bash 
+Jan 14 12:35:08 horus snoopy[24200]: [florin, uid:5201 sid:24198]: id -u 
+Jan 14 12:35:12 horus snoopy[24201]: [florin, uid:5201 sid:24198]: ssh infoso_en@ssh 
+Jan 14 12:35:12 horus snoopy[24205]: [infoso_en, uid:1079 sid:24205]: -bash 
+Jan 14 12:35:12 horus snoopy[24207]: [infoso_en, uid:1079 sid:24205]: id -u 
+Jan 14 12:35:12 horus snoopy[24209]: [infoso_en, uid:1079 sid:24205]: dircolors -b 
+Jan 14 12:35:16 horus snoopy[24210]: [infoso_en, uid:1079 sid:24205]: ls --color=auto 
+Jan 14 12:35:29 horus snoopy[24212]: [florin, uid:5201 sid:24198]: ssh infodso_en@ssh 
+Jan 14 12:35:30 horus snoopy[24216]: [infodso_en, uid:1121 sid:24216]: -bash 
+Jan 14 12:35:30 horus snoopy[24218]: [infodso_en, uid:1121 sid:24216]: id -u 
+Jan 14 12:35:30 horus snoopy[24220]: [infodso_en, uid:1121 sid:24216]: dircolors -b 
+Jan 14 12:35:56 horus snoopy[24221]: [florin, uid:5201 sid:24198]: ssh infoac_en@ssh 
+Jan 14 12:36:32 horus snoopy[24225]: [florin, uid:5201 sid:24198]: ssh infoso_en@ssh 
+Jan 14 12:36:32 horus snoopy[24229]: [infoso_en, uid:1079 sid:24229]: -bash 
+Jan 14 12:36:32 horus snoopy[24231]: [infoso_en, uid:1079 sid:24229]: id -u 
+Jan 14 12:36:32 horus snoopy[24233]: [infoso_en, uid:1079 sid:24229]: dircolors -b 
+Jan 14 12:36:39 horus snoopy[24234]: [infoso_en, uid:1079 sid:24229]: cp -R public_html /tmp/ 
+Jan 14 12:36:51 horus snoopy[24235]: [infoso_en, uid:1079 sid:24229]: ls --color=auto -l /tmp/ 
+Jan 14 12:37:47 horus snoopy[24236]: [infoso_en, uid:1079 sid:24229]: ls --color=auto 
+Jan 14 12:38:08 horus snoopy[24237]: [infoso_en, uid:1079 sid:24229]: rm public_html.tgz 
+Jan 14 12:38:12 horus snoopy[24238]: [infoso_en, uid:1079 sid:24229]: rm -f public_html.tgz 
+Jan 14 12:38:21 horus snoopy[24239]: [fjblas, uid:113 sid:20586]: rm public_html 
+Jan 14 12:38:22 horus snoopy[24240]: [infoso_en, uid:1079 sid:24229]: rm -f public_html.tgz 
+Jan 14 12:38:23 horus snoopy[24241]: [fjblas, uid:113 sid:20586]: rm public_html.tgz 
+Jan 14 12:38:46 horus snoopy[24246]: [infodso_en, uid:1121 sid:24246]: -bash 
+Jan 14 12:38:46 horus snoopy[24248]: [infodso_en, uid:1121 sid:24246]: id -u 
+Jan 14 12:38:46 horus snoopy[24250]: [infodso_en, uid:1121 sid:24246]: dircolors -b 
+Jan 14 12:38:48 horus snoopy[24251]: [florin, uid:5201 sid:24198]: ssh ii_ac2_enn@ssh 
+Jan 14 12:38:52 horus snoopy[24255]: [infodso_en, uid:1121 sid:24246]: rm /tmp/public_html.tgz 
+Jan 14 12:38:58 horus snoopy[24256]: [florin, uid:5201 sid:24198]: ssh ii_ac2_en@ssh 
+Jan 14 12:38:58 horus snoopy[24259]: [infodso_en, uid:1121 sid:24246]: ls --color=auto -l 
+Jan 14 12:38:58 horus snoopy[24261]: [ii_ac2_en, uid:5204 sid:24261]: -bash 
+Jan 14 12:38:58 horus snoopy[24263]: [ii_ac2_en, uid:5204 sid:24261]: id -u 
+Jan 14 12:39:04 horus snoopy[24272]: [ii_ac2_en, uid:5204 sid:24261]: ls -l 
+Jan 14 12:39:12 horus snoopy[24273]: [ii_ac2_en, uid:5204 sid:24261]: rm public_html.tgz 
+Jan 14 12:39:14 horus snoopy[24274]: [ii_ac2_en, uid:5204 sid:24261]: ls 
+Jan 14 12:39:15 horus snoopy[24275]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:39:16 horus snoopy[24276]: [infodso_en, uid:1121 sid:24246]: ls --color=auto -l 
+Jan 14 12:39:22 horus snoopy[24277]: [florin, uid:5201 sid:24198]: ssh infoso_en@ssh 
+Jan 14 12:39:22 horus snoopy[24281]: [infoso_en, uid:1079 sid:24281]: -bash 
+Jan 14 12:39:22 horus snoopy[24283]: [infoso_en, uid:1079 sid:24281]: id -u 
+Jan 14 12:39:22 horus snoopy[24285]: [infoso_en, uid:1079 sid:24281]: dircolors -b 
+Jan 14 12:39:24 horus snoopy[24286]: [infoso_en, uid:1079 sid:24281]: ls --color=auto 
+Jan 14 12:39:31 horus snoopy[24287]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:39:32 horus snoopy[24288]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:39:38 horus snoopy[24289]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:39:43 horus snoopy[24290]: [infoso_en, uid:1079 sid:24281]: tar czf public_html.tgz public_html 
+Jan 14 12:39:46 horus snoopy[24292]: [infoso_en, uid:1079 sid:24281]: ls --color=auto -l 
+Jan 14 12:39:57 horus snoopy[24293]: [infoso_en, uid:1079 sid:24281]: rm public_html.tgz 
+Jan 14 12:40:05 horus snoopy[24517]: [infoso_en, uid:1079 sid:24281]: ls --color=auto 
+Jan 14 12:40:15 horus snoopy[24518]: [infoso_en, uid:1079 sid:24281]: tar czf public_html.tgz dokuwiki index.html 
+Jan 14 12:40:19 horus snoopy[24520]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:40:40 horus snoopy[24521]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:40:42 horus snoopy[24522]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:40:44 horus snoopy[24523]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:40:45 horus snoopy[24524]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:40:46 horus snoopy[24525]: [infoso_en, uid:1079 sid:24281]: cp public_html.tgz /tmp/ 
+Jan 14 12:40:46 horus snoopy[24526]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:40:49 horus snoopy[24527]: [infoso_en, uid:1079 sid:24281]: ls --color=auto 
+Jan 14 12:40:54 horus snoopy[24528]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:41:01 horus snoopy[24529]: [infoso_en, uid:1079 sid:24281]: chmod oug+rwx public_html.tgz 
+Jan 14 12:41:05 horus snoopy[24530]: [infoso_en, uid:1079 sid:24281]: rm public_html 
+Jan 14 12:41:10 horus snoopy[24532]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:41:12 horus snoopy[24533]: [infoso_en, uid:1079 sid:24281]: ls --color=auto -l 
+Jan 14 12:41:13 horus snoopy[24534]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:48:21 horus snoopy[24760]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:48:33 horus snoopy[24761]: [infodso_en, uid:1121 sid:24246]: tar zxf /tmp/public_html.tgz 
+Jan 14 12:51:28 horus snoopy[24994]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 12:51:32 horus snoopy[24995]: [infodso_en, uid:1121 sid:24246]: vim index.html 
+Jan 14 12:51:55 horus snoopy[24998]: [infodso_en, uid:1121 sid:24246]: sync 
+Jan 14 12:52:03 horus snoopy[24999]: [infodso_en, uid:1121 sid:24246]: chmod 766 data/ 
+Jan 14 12:52:08 horus snoopy[25000]: [infodso_en, uid:1121 sid:24246]: vim conf/local.php 
+Jan 14 14:06:40 horus snoopy[28445]: [infodso_en, uid:1121 sid:24246]: chmod -R 777 data/ 
+Jan 14 14:07:04 horus snoopy[28446]: [infodso_en, uid:1121 sid:24246]: ls --color=auto 
+Jan 14 14:07:06 horus snoopy[28447]: [infodso_en, uid:1121 sid:24246]: ls --color=auto -l 
+Jan 14 14:07:13 horus snoopy[28448]: [infodso_en, uid:1121 sid:24246]: chmod -R 777 data 
+Jan 14 14:07:16 horus snoopy[28449]: [infodso_en, uid:1121 sid:24246]: ls --color=auto -l 
+Jan 14 14:44:59 horus snoopy[30060]: [infodso, uid:1108 sid:2220]: whoami 
+Jan 14 14:54:28 horus snoopy[30515]: [infoac_en, uid:1125 sid:30515]: -bash 
+Jan 14 14:54:28 horus snoopy[30517]: [infoac_en, uid:1125 sid:30515]: id -u 
+Jan 14 14:54:28 horus snoopy[30519]: [infoac_en, uid:1125 sid:30515]: dircolors -b 
+Jan 14 15:07:06 horus snoopy[31217]: [ycrespo, uid:1124 sid:31217]: -bash 
+Jan 14 15:07:06 horus snoopy[31219]: [ycrespo, uid:1124 sid:31217]: id -u 
+Jan 14 15:07:06 horus snoopy[31221]: [ycrespo, uid:1124 sid:31217]: dircolors -b 
+Jan 14 17:03:03 horus snoopy[4090]: [agarcia, uid:1061 sid:4090]: -bash 
+Jan 14 17:03:03 horus snoopy[4093]: [agarcia, uid:1061 sid:4090]: id -u 
+Jan 14 17:03:03 horus snoopy[4095]: [agarcia, uid:1061 sid:4090]: dircolors -b 
+Jan 14 17:03:05 horus snoopy[4096]: [agarcia, uid:1061 sid:4090]: ls --color=auto 
+Jan 13 14:44:07 horus snoopy[28016]: [bbergua, uid:5191 sid:28016]: -bash 
+Jan 13 14:44:07 horus snoopy[28018]: [bbergua, uid:5191 sid:28016]: id -u 
+Jan 13 14:44:07 horus snoopy[28020]: [bbergua, uid:5191 sid:28016]: dircolors -b 
+Jan 13 14:44:13 horus snoopy[28021]: [bbergua, uid:5191 sid:28016]: ssh dssoo@ssh 
+Jan 13 14:44:13 horus snoopy[28025]: [dssoo, uid:5074 sid:28025]: -bash 
+Jan 13 14:44:13 horus snoopy[28027]: [dssoo, uid:5074 sid:28025]: id -u 
+Jan 13 14:44:14 horus snoopy[28028]: [dssoo, uid:5074 sid:28025]: ls 
+Jan 13 14:44:15 horus snoopy[28029]: [dssoo, uid:5074 sid:28025]: ls -l 
+Jan 13 14:44:23 horus snoopy[28030]: [dssoo, uid:5074 sid:28025]: ls -l 
+Jan 13 14:44:31 horus snoopy[28031]: [dssoo, uid:5074 sid:28025]: ls -l 
+Jan 13 14:44:47 horus snoopy[28032]: [dssoo, uid:5074 sid:28025]: ls -l 
+Jan 13 14:44:52 horus snoopy[28033]: [dssoo, uid:5074 sid:28025]: ls -l Ejercicio 1 - Depuraci�n/ 
+Jan 13 14:44:58 horus snoopy[28034]: [dssoo, uid:5074 sid:28025]: ls -l Ejercicio 2 - Driver/ 
+Jan 13 14:45:07 horus snoopy[28260]: [dssoo, uid:5074 sid:28025]: ls -l Ejercicio 3/ 
+Jan 13 14:45:24 horus snoopy[28261]: [dssoo, uid:5074 sid:28025]: unzip -h 
+Jan 13 14:45:35 horus snoopy[28262]: [dssoo, uid:5074 sid:28025]: unzip -l Ejercicio 2 - Driver/ejercicio_
+Jan 13 14:45:49 horus snoopy[28263]: [dssoo, uid:5074 sid:28025]: ls -l Ejercicio 2 - Driver/ 
+Jan 13 14:46:15 horus snoopy[28264]: [dssoo, uid:5074 sid:28025]: clear 
+Jan 13 16:42:51 horus snoopy[1118]: [dssoo, uid:5074 sid:1118]: -bash 
+Jan 13 16:42:51 horus snoopy[1121]: [dssoo, uid:5074 sid:1118]: id -u 
+Jan 13 16:43:04 horus snoopy[1123]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 16:43:06 horus snoopy[1124]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 16:43:40 horus snoopy[1133]: [dhiguero, uid:1035 sid:1133]: -bash 
+Jan 13 16:43:40 horus snoopy[1135]: [dhiguero, uid:1035 sid:1133]: id -u 
+Jan 13 16:43:40 horus snoopy[1137]: [dhiguero, uid:1035 sid:1133]: dircolors -b 
+Jan 13 16:43:42 horus snoopy[1138]: [dhiguero, uid:1035 sid:1133]: ls --color=auto 
+Jan 13 16:43:46 horus snoopy[1147]: [dhiguero, uid:1035 sid:1133]: ssh root@ssh 
+Jan 13 16:43:47 horus snoopy[1150]: [root, uid:0 sid:1150]: -bash 
+Jan 13 16:43:47 horus snoopy[1152]: [root, uid:0 sid:1150]: id -u 
+Jan 13 16:43:47 horus snoopy[1153]: [root, uid:0 sid:1150]: mesg n 
+Jan 13 16:43:49 horus snoopy[1154]: [root, uid:0 sid:1150]: clear 
+Jan 13 16:43:51 horus snoopy[1155]: [root, uid:0 sid:1150]: top 
+Jan 13 16:44:25 horus snoopy[1156]: [root, uid:0 sid:1150]: ps -Af 
+Jan 13 16:51:13 horus snoopy[1614]: [infodso, uid:1108 sid:2220]: ls --color=auto -als 
+Jan 13 17:02:21 horus snoopy[2076]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:02:23 horus snoopy[2077]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:02:26 horus snoopy[2078]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:09:40 horus snoopy[2326]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:09:48 horus snoopy[2327]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:09:57 horus snoopy[2328]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:13:40 horus snoopy[2565]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:13:41 horus snoopy[2566]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:13:48 horus snoopy[2567]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:13:50 horus snoopy[2568]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:13:57 horus snoopy[2569]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:14:01 horus snoopy[2570]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:14:04 horus snoopy[2571]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:14:06 horus snoopy[2572]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:14:09 horus snoopy[2573]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:14:17 horus snoopy[2574]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:14:20 horus snoopy[2576]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:15:02 horus snoopy[2618]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:15:04 horus snoopy[2718]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:15:09 horus snoopy[2808]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:15:15 horus snoopy[2809]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:15:17 horus snoopy[2810]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:15:28 horus snoopy[2812]: [dssoo, uid:5074 sid:1118]: cp dssoo_2003_2004.tar /tmp/ 
+Jan 13 17:15:38 horus snoopy[2813]: [dssoo, uid:5074 sid:1118]: tar xvfz /tmp/dssoo_2003_2004.tar 
+Jan 13 17:15:41 horus snoopy[2815]: [dssoo, uid:5074 sid:1118]: tar xvz /tmp/dssoo_2003_2004.tar 
+Jan 13 17:15:56 horus snoopy[2818]: [dssoo, uid:5074 sid:1118]: ls -l 
+Jan 13 17:16:02 horus snoopy[2819]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:16:07 horus snoopy[2820]: [dssoo, uid:5074 sid:1118]: ls -lh 
+Jan 13 17:16:28 horus snoopy[2821]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:16:32 horus snoopy[2822]: [dssoo, uid:5074 sid:1118]: tar xvz /tmp/dssoo_2003_2004.tar 
+Jan 13 17:16:42 horus snoopy[2825]: [dssoo, uid:5074 sid:1118]: ls -l 
+Jan 13 17:16:51 horus snoopy[2826]: [dssoo, uid:5074 sid:1118]: tar xvz /tmp/dssoo_2003_2004.tar 
+Jan 13 17:17:36 horus snoopy[2832]: [dssoo, uid:5074 sid:1118]: ls -l 
+Jan 13 17:17:42 horus snoopy[2833]: [dssoo, uid:5074 sid:1118]: ls -l 
+Jan 13 17:18:25 horus snoopy[2838]: [dssoo, uid:5074 sid:1118]: rm dssoo_2003_2004.tar 
+Jan 13 17:27:46 horus snoopy[3287]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:27:49 horus snoopy[3288]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:29:07 horus snoopy[3293]: [dssoo, uid:5074 sid:1118]: ls -l 
+Jan 13 17:29:09 horus snoopy[3294]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:29:13 horus snoopy[3295]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:29:16 horus snoopy[3296]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:29:17 horus snoopy[3297]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:29:20 horus snoopy[3298]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:29:26 horus snoopy[3299]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:31:46 horus snoopy[3531]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:31:50 horus snoopy[3532]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:31:56 horus snoopy[3533]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:32:05 horus snoopy[3539]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:32:09 horus snoopy[3541]: [dssoo, uid:5074 sid:1118]: clear 
+Jan 13 17:32:10 horus snoopy[3542]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:33:07 horus snoopy[3545]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:38:10 horus snoopy[3781]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:38:13 horus snoopy[3782]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 17:38:17 horus snoopy[3783]: [dssoo, uid:5074 sid:1118]: ls 
+Jan 13 17:38:24 horus snoopy[3784]: [dssoo, uid:5074 sid:1118]: find . 
+Jan 13 23:14:10 horus snoopy[19124]: [root, uid:0 sid:19124]: -bash 
+Jan 13 23:14:10 horus snoopy[19126]: [root, uid:0 sid:19124]: id -u 
+Jan 13 23:14:10 horus snoopy[19127]: [root, uid:0 sid:19124]: mesg n 
+Jan 13 23:14:25 horus snoopy[19128]: [root, uid:0 sid:19124]: top 
+Jan 13 23:17:45 horus snoopy[19357]: [root, uid:0 sid:19124]: df 
+Jan 13 23:17:55 horus snoopy[19358]: [root, uid:0 sid:19124]: ls 
+Jan 13 23:17:59 horus snoopy[19359]: [root, uid:0 sid:19124]: ls 
+Jan 13 23:18:01 horus snoopy[19360]: [root, uid:0 sid:19124]: ls 
+Jan 13 23:18:05 horus snoopy[19361]: [root, uid:0 sid:19124]: ls -las 
+Jan 13 23:19:25 horus snoopy[19363]: [root, uid:0 sid:19124]: top 
+Jan 13 23:33:54 horus snoopy[20057]: [folcina, uid:3021 sid:20057]: -bash 
+Jan 13 23:33:54 horus snoopy[20059]: [folcina, uid:3021 sid:20057]: id -u 
+Jan 13 23:33:54 horus snoopy[20061]: [folcina, uid:3021 sid:20057]: dircolors -b 
+Jan 13 23:33:57 horus snoopy[20062]: [folcina, uid:3021 sid:20057]: ls --color=auto 
+Jan 13 23:34:15 horus snoopy[20068]: [folcina, uid:3021 sid:20057]: ls --color=auto 
+Jan 13 23:52:50 horus snoopy[20987]: [fjblas, uid:113 sid:20987]: -bash 
+Jan 13 23:52:50 horus snoopy[20989]: [fjblas, uid:113 sid:20987]: id -u 
+Jan 13 23:52:50 horus snoopy[20991]: [fjblas, uid:113 sid:20987]: dircolors -b 
+Jan 13 23:53:19 horus snoopy[20992]: [fjblas, uid:113 sid:20987]: ssh ii_ac2@localhost 
+Jan 13 23:53:21 horus snoopy[20996]: [ii_ac2, uid:5189 sid:20996]: -bash 
+Jan 13 23:53:21 horus snoopy[20998]: [ii_ac2, uid:5189 sid:20996]: id -u 
+Jan 13 23:53:26 horus snoopy[21000]: [fjblas, uid:113 sid:20987]: ssh ii_ac2_en@localhost 
+Jan 13 23:53:26 horus snoopy[21004]: [ii_ac2_en, uid:5204 sid:21004]: -bash 
+Jan 13 23:53:26 horus snoopy[21006]: [ii_ac2_en, uid:5204 sid:21004]: id -u 
+Jan 13 23:53:28 horus snoopy[21007]: [ii_ac2_en, uid:5204 sid:21004]: ls 
+Jan 13 23:53:53 horus snoopy[21008]: [ii_ac2_en, uid:5204 sid:21004]: tar czf public_html.tgz public_html 
+Jan 13 23:54:01 horus snoopy[21010]: [ii_ac2_en, uid:5204 sid:21004]: cp public_html.tgz /tmp/ 
+Jan 13 23:54:08 horus snoopy[21011]: [ii_ac2_en, uid:5204 sid:21004]: chmod 777 /tmp/public_html.tgz 
+Jan 13 23:54:43 horus snoopy[21016]: [infodso_en, uid:1121 sid:21016]: -bash 
+Jan 13 23:54:43 horus snoopy[21018]: [infodso_en, uid:1121 sid:21016]: id -u 
+Jan 13 23:54:43 horus snoopy[21020]: [infodso_en, uid:1121 sid:21016]: dircolors -b 
+Jan 13 23:54:44 horus snoopy[21021]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:54:51 horus snoopy[21022]: [infodso_en, uid:1121 sid:21016]: cp /tmp/public_html.tgz . 
+Jan 13 23:54:57 horus snoopy[21023]: [infodso_en, uid:1121 sid:21016]: tar zxf public_html.tgz 
+Jan 13 23:55:01 horus snoopy[21039]: [infodso_en, uid:1121 sid:21016]: rm public_html.tgz 
+Jan 13 23:55:10 horus snoopy[21252]: [infodso_en, uid:1121 sid:21016]: rm /tmp/public_html.tgz 
+Jan 13 23:55:12 horus snoopy[21253]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:55:16 horus snoopy[21254]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:55:18 horus snoopy[21255]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 13 23:55:34 horus snoopy[21259]: [fjblas, uid:113 sid:21259]: -bash 
+Jan 13 23:55:34 horus snoopy[21261]: [fjblas, uid:113 sid:21259]: id -u 
+Jan 13 23:55:34 horus snoopy[21263]: [fjblas, uid:113 sid:21259]: dircolors -b 
+Jan 13 23:55:37 horus snoopy[21264]: [fjblas, uid:113 sid:21259]: ssh ii_ac2_en@localhost 
+Jan 13 23:55:37 horus snoopy[21268]: [ii_ac2_en, uid:5204 sid:21268]: -bash 
+Jan 13 23:55:37 horus snoopy[21270]: [ii_ac2_en, uid:5204 sid:21268]: id -u 
+Jan 13 23:55:49 horus snoopy[21271]: [ii_ac2_en, uid:5204 sid:21268]: tar czf public_html.tgz .web 
+Jan 13 23:55:54 horus snoopy[21273]: [ii_ac2_en, uid:5204 sid:21268]: cp public_html.tgz /tmp/ 
+Jan 13 23:55:56 horus snoopy[21274]: [ii_ac2_en, uid:5204 sid:21268]: chmod 777 /tmp/public_html.tgz 
+Jan 13 23:56:04 horus snoopy[21275]: [infodso_en, uid:1121 sid:21016]: cp /tmp/public_html.tgz . 
+Jan 13 23:56:10 horus snoopy[21276]: [infodso_en, uid:1121 sid:21016]: tar zxf public_html.tgz 
+Jan 13 23:56:13 horus snoopy[21278]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:56:19 horus snoopy[21279]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:56:50 horus snoopy[21280]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 13 23:56:56 horus snoopy[21281]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 13 23:56:58 horus snoopy[21282]: [ii_ac2_en, uid:5204 sid:21268]: ls -l 
+Jan 13 23:57:15 horus snoopy[21283]: [ii_ac2_en, uid:5204 sid:21268]: ls -la 
+Jan 13 23:57:34 horus snoopy[21284]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -la 
+Jan 13 23:58:45 horus snoopy[21285]: [infodso_en, uid:1121 sid:21016]: /mnt/web/docencia/gii/ 
+Jan 13 23:58:50 horus snoopy[21286]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:58:51 horus snoopy[21287]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 13 23:59:00 horus snoopy[21288]: [infodso_en, uid:1121 sid:21016]: mkdir infodso_en 
+Jan 13 23:59:31 horus snoopy[21291]: [infodso_en, uid:1121 sid:21016]: ln -sf /mnt/web/docencia/gii/infodso_e
+Jan 13 23:59:42 horus snoopy[21292]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 13 23:59:43 horus snoopy[21293]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 13 23:59:48 horus snoopy[21294]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -la 
+Jan 13 23:59:55 horus snoopy[21295]: [infodso_en, uid:1121 sid:21016]: rm .web 
+Jan 13 23:59:59 horus snoopy[21296]: [infodso_en, uid:1121 sid:21016]: ln -sf /mnt/web/docencia/gii/infodso_e
+Jan 14 00:00:01 horus snoopy[21297]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 14 00:00:04 horus snoopy[21562]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 14 00:00:10 horus snoopy[21610]: [ii_ac2_en, uid:5204 sid:21268]: ls 
+Jan 14 00:00:25 horus snoopy[21611]: [ii_ac2_en, uid:5204 sid:21268]: tar zcf public_html.tgz assign bibliography.htm contacts.html dokuwiki final.doc frame_index.html index.html index.html.old logo.html logo.jpg notas_ac2_2006.htm papers pres.htm pres.htm.old projects.pdf public_html rules.htm slides welcome.htm 
+Jan 14 00:00:46 horus snoopy[21613]: [ii_ac2_en, uid:5204 sid:21268]: rm public_html.tgz 
+Jan 14 00:00:50 horus snoopy[21614]: [ii_ac2_en, uid:5204 sid:21268]: ls 
+Jan 14 00:01:00 horus snoopy[21615]: [ii_ac2_en, uid:5204 sid:21268]: ls 
+Jan 14 00:01:02 horus snoopy[21616]: [ii_ac2_en, uid:5204 sid:21268]: ls 
+Jan 14 00:01:12 horus snoopy[21617]: [ii_ac2_en, uid:5204 sid:21268]: vim index.html 
+Jan 14 00:01:26 horus snoopy[21620]: [ii_ac2_en, uid:5204 sid:21268]: tar zcf public_html.tgz assign bibliography.htm contacts.html dokuwiki final.doc frame_index.html index.html index.html.old logo.html logo.jpg notas_ac2_2006.htm papers pres.htm pres.htm.old projects.pdf public_html rules.htm slides welcome.htm 
+Jan 14 00:01:34 horus snoopy[21622]: [ii_ac2_en, uid:5204 sid:21268]: cp public_html.tgz /tmp/ 
+Jan 14 00:01:41 horus snoopy[21623]: [ii_ac2_en, uid:5204 sid:21268]: chmod 777 /tmp/public_html.tgz 
+Jan 14 00:01:48 horus snoopy[21624]: [infodso_en, uid:1121 sid:21016]: cp /tmp/public_html.tgz 
+Jan 14 00:01:50 horus snoopy[21625]: [infodso_en, uid:1121 sid:21016]: cp /tmp/public_html.tgz . 
+Jan 14 00:01:58 horus snoopy[21626]: [infodso_en, uid:1121 sid:21016]: tar zxf public_html.tgz 
+Jan 14 00:03:50 horus snoopy[21632]: [infodso_en, uid:1121 sid:21016]: vim index.html 
+Jan 14 00:04:43 horus snoopy[21635]: [infodso_en, uid:1121 sid:21016]: vim index.html 
+Jan 14 00:04:59 horus snoopy[21638]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 14 00:05:04 horus snoopy[21780]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 14 00:05:11 horus snoopy[21869]: [infodso_en, uid:1121 sid:21016]: vim local.php 
+Jan 14 00:05:19 horus snoopy[21872]: [infodso_en, uid:1121 sid:21016]: vim dokuwiki.php 
+Jan 14 00:05:35 horus snoopy[21875]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en acl.auth.php acl.auth.php.dist acronyms.conf dokuwiki.php entities.conf interwiki.conf local.php local.php.bak local.php.dist local.protected.php mediameta.php mime.conf msg mysql.conf.php.example smileys.conf users.auth.php users.auth.php.dist wordblock.conf words.aspell.dist 
+Jan 14 00:05:47 horus snoopy[21876]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en bin conf COPYING data doku.php feed.php inc index.php lib README VERSION 
+Jan 14 00:05:49 horus snoopy[21877]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en bin/dwpage.php bin/indexer.php bin/wantedpages.php conf/acl.auth.php conf/acl.auth.php.dist conf/acronyms.conf conf/dokuwiki.php conf/entities.conf conf/interwiki.conf conf/local.php conf/local.php.bak conf/local.php.dist conf/local.protected.php conf/mediameta.php conf/mime.conf conf/msg conf/mysql.conf.php.example conf/smileys.conf conf/users.auth.php conf/users.auth.php.dist conf/wordblock.conf conf/words.aspell.dist data/attic data/cache data/locks data/media data/meta data/pages inc/actions.php inc/aspell.php inc/auth inc/auth.php inc/blowfish.php inc/cache.php inc/changelog.php inc/cliopts.php inc/common.php inc/confutils.php inc/DifferenceEngine.php inc/events.php inc/feedcreator.class.php inc/FeedParser.php inc/fulltext.php inc/geshi inc/geshi.php inc/html.php inc/HTTPClient.php inc/indexer.php inc/infoutils.php inc/init.php inc/io.php inc/JpegMeta.php inc/JSON.php inc/lang inc/mail.php inc/media.php inc/pageutils.ph
+Jan 14 00:05:51 horus snoopy[21878]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en data/attic/arquitectura_de_comp
+Jan 14 00:06:25 horus snoopy[21879]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 
+Jan 14 00:06:35 horus snoopy[21880]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -la 
+Jan 14 00:06:50 horus snoopy[21881]: [infodso_en, uid:1121 sid:21016]: ls --color=auto 
+Jan 14 00:06:57 horus snoopy[21882]: [infodso_en, uid:1121 sid:21016]: vim index.html 
+Jan 14 00:07:19 horus snoopy[21886]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en assign bibliography.htm contacts.html dokuwiki final.doc frame_index.html index.html index.html.old logo.html logo.jpg notas_ac2_2006.htm papers pres.htm pres.htm.old projects.pdf public_html public_html.tgz rules.htm slides welcome.htm 
+Jan 14 00:07:26 horus snoopy[21887]: [infodso_en, uid:1121 sid:21016]: vim rules.htm 
+Jan 14 00:07:34 horus snoopy[21890]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en bin conf COPYING data doku.php feed.php inc index.php lib README VERSION 
+Jan 14 00:07:36 horus snoopy[21891]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en bin/dwpage.php bin/indexer.php bin/wantedpages.php conf/acl.auth.php conf/acl.auth.php.dist conf/acronyms.conf conf/dokuwiki.php conf/entities.conf conf/interwiki.conf conf/local.php conf/local.php.bak conf/local.php.dist conf/local.protected.php conf/mediameta.php conf/mime.conf conf/msg conf/mysql.conf.php.example conf/smileys.conf conf/users.auth.php conf/users.auth.php.dist conf/wordblock.conf conf/words.aspell.dist data/attic data/cache data/locks data/media data/meta data/pages inc/actions.php inc/aspell.php inc/auth inc/auth.php inc/blowfish.php inc/cache.php inc/changelog.php inc/cliopts.php inc/common.php inc/confutils.php inc/DifferenceEngine.php inc/events.php inc/feedcreator.class.php inc/FeedParser.php inc/fulltext.php inc/geshi inc/geshi.php inc/html.php inc/HTTPClient.php inc/indexer.php inc/infoutils.php inc/init.php inc/io.php inc/JpegMeta.php inc/JSON.php inc/lang inc/mail.php inc/media.php inc/pageutils.ph
+Jan 14 00:07:38 horus snoopy[21892]: [infodso_en, uid:1121 sid:21016]: grep ii_ac2_en data/attic/arquitectura_de_comp
+Jan 14 00:08:20 horus snoopy[21893]: [infodso_en, uid:1121 sid:21016]: sync 
+Jan 14 00:08:29 horus snoopy[21894]: [infodso_en, uid:1121 sid:21016]: mv index.html index.html.old2 
+Jan 14 00:08:42 horus snoopy[21895]: [infodso_en, uid:1121 sid:21016]: mv index.html.old2 index.html 
+Jan 14 00:08:44 horus snoopy[21896]: [infodso_en, uid:1121 sid:21016]: ls --color=auto -l 

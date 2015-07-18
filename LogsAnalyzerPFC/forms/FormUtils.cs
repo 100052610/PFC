@@ -108,7 +108,12 @@ namespace LogsAnalyzerPFC.forms
 
             return result;
         }
-        
+
+        public static int normalizeProgress(int progress)
+        {
+            return progress > 100 ? 100 : progress;
+        }
+
         #endregion
 
         #region "Métodos privados"
@@ -205,7 +210,7 @@ namespace LogsAnalyzerPFC.forms
                 }
                 build.Append(currentLine.ToString());
             }
-        }       
+        }        
 
         #endregion
     }

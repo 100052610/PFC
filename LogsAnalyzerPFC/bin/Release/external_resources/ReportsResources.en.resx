@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CAT" xml:space="preserve">
+    <value>CATEGORY</value>
+  </data>
+  <data name="CMD" xml:space="preserve">
+    <value>COMMAND</value>
+  </data>
+  <data name="COMMAND_AND_USER" xml:space="preserve">
+    <value>COMMAND (MOST USER)</value>
+  </data>
+  <data name="COMMAND_TOTAL" xml:space="preserve">
+    <value>COMMAND (TOTAL USES)</value>
+  </data>
+  <data name="DIF" xml:space="preserve">
+    <value>DIFFICULTY LEVEL</value>
+  </data>
+  <data name="DIFF_USERS" xml:space="preserve">
+    <value>Nº USERS</value>
+  </data>
+  <data name="D_CAU" xml:space="preserve">
+    <value>This graph shows the commands used more times ; Indicating the user who has most used , Limited to 25 records and Ordered by the number of times they have used it.</value>
+  </data>
+  <data name="D_CC" xml:space="preserve">
+    <value>This graph shows the categories of commands covered and the number of commands that each one has; Sorted by category.</value>
+  </data>
+  <data name="D_CCC" xml:space="preserve">
+    <value>This graph shows a comparison between the commands into the initial commands file and the ones into the log file analyzed ; Grouped and Sorted by the name of the category to which they belong.</value>
+  </data>
+  <data name="D_CUC" xml:space="preserve">
+    <value>This graph shows the categories and the number of used commands into each one ; Sorted by category.</value>
+  </data>
+  <data name="D_DCU" xml:space="preserve">
+    <value>This graph shows the number of different commands used by each user; Sort by the number of times it has been used.</value>
+  </data>
+  <data name="D_MDU" xml:space="preserve">
+    <value>This graph shows the users running on average more difficult commands ; Limited to 10 records and Sorted by the middle of difficulty of the commands used.</value>
+  </data>
+  <data name="D_MIU" xml:space="preserve">
+    <value>This graph shows the users that are running , on average, more complex commands ; Limited to 10 entries and Ordered by the average complexity of the commands used.</value>
+  </data>
+  <data name="D_MPU" xml:space="preserve">
+    <value>This graph shows the users running on average more command parameters; Limited to 10 entries and Ordered by the average parameters used commands.</value>
+  </data>
+  <data name="D_MUC" xml:space="preserve">
+    <value>This graph shows the most commonly used commands in the file analyzed ; Limited to 25 records  and Sort by the number of times it has been used.</value>
+  </data>
+  <data name="D_MUCU" xml:space="preserve">
+    <value>This graph shows the most used command by each user ; Sorted by username and Indicating the number of times have been used each.</value>
+  </data>
+  <data name="D_SCC" xml:space="preserve">
+    <value>This graph shows the number of different users using each command; Also specifying the total uses for each command.</value>
+  </data>
+  <data name="D_SCT" xml:space="preserve">
+    <value>This graph shows number of times used each command; Also specifying the user who most used the command and the times using it.</value>
+  </data>
+  <data name="D_SCTU" xml:space="preserve">
+    <value>This graph shows the commands used by a specific user; Also specifying each command use for all users and for the user who most used it.</value>
+  </data>
+  <data name="D_SUC" xml:space="preserve">
+    <value>This graph shows the number different commands used by each user; Also specifying the total times of commands used.</value>
+  </data>
+  <data name="D_SUT" xml:space="preserve">
+    <value>This graph shows the number of times each user has used any command; Also specifying each user most used command and the times using it.</value>
+  </data>
+  <data name="D_SUTC" xml:space="preserve">
+    <value>This graph shows the users using a specific command; Also specifying each user total commands times and most used command.</value>
+  </data>
+  <data name="D_TCU" xml:space="preserve">
+    <value>This graph shows the total number of commands used by each user; Sort by the number of times it has been used.</value>
+  </data>
+  <data name="FILTER_TIMES" xml:space="preserve">
+    <value>FILTERED USES</value>
+  </data>
+  <data name="IMP" xml:space="preserve">
+    <value>COMPLEXITY LEVEL</value>
+  </data>
+  <data name="MOST_COMMAND_TIMES" xml:space="preserve">
+    <value>MOST COMMAND USES</value>
+  </data>
+  <data name="MOST_USER_TIMES" xml:space="preserve">
+    <value>MOST USER USES</value>
+  </data>
+  <data name="NUM_CMD" xml:space="preserve">
+    <value>Nº COMMANDS</value>
+  </data>
+  <data name="NUM_CMD_USED" xml:space="preserve">
+    <value>Nº COMMANDS USED</value>
+  </data>
+  <data name="PARAM" xml:space="preserve">
+    <value>Nº of PARAMETERS</value>
+  </data>
+  <data name="Q_CAU" xml:space="preserve">
+    <value>Most Used Commands and the User who uses it most</value>
+  </data>
+  <data name="Q_CC" xml:space="preserve">
+    <value>Existing Commands By Category</value>
+  </data>
+  <data name="Q_CCC" xml:space="preserve">
+    <value>Comparison between Existing Commands and Used Commands</value>
+  </data>
+  <data name="Q_CUC" xml:space="preserve">
+    <value>Commands Used By Category</value>
+  </data>
+  <data name="Q_DCU" xml:space="preserve">
+    <value>Users and their Number of Different Commands Used</value>
+  </data>
+  <data name="Q_MDU" xml:space="preserve">
+    <value>Users of Most Difficulty Commands</value>
+  </data>
+  <data name="Q_MIU" xml:space="preserve">
+    <value>Users of Most Complexity Commands</value>
+  </data>
+  <data name="Q_MPU" xml:space="preserve">
+    <value>Users of Commands with Most Params </value>
+  </data>
+  <data name="Q_MUC" xml:space="preserve">
+    <value>Most Used Commands</value>
+  </data>
+  <data name="Q_MUCU" xml:space="preserve">
+    <value>Users and their Most Used Command</value>
+  </data>
+  <data name="Q_SCC" xml:space="preserve">
+    <value>Number of Users using each Command</value>
+  </data>
+  <data name="Q_SCT" xml:space="preserve">
+    <value>Times Using Each Command</value>
+  </data>
+  <data name="Q_SCTU" xml:space="preserve">
+    <value>Commands use by users</value>
+  </data>
+  <data name="Q_SUC" xml:space="preserve">
+    <value>Number of different Commands used by each User</value>
+  </data>
+  <data name="Q_SUT" xml:space="preserve">
+    <value>Times each User has used Commands</value>
+  </data>
+  <data name="Q_SUTC" xml:space="preserve">
+    <value>Users use by commands</value>
+  </data>
+  <data name="Q_TCU" xml:space="preserve">
+    <value>Users and their Number of Commands Used</value>
+  </data>
+  <data name="TOTAL_TIMES" xml:space="preserve">
+    <value>TOTAL USES</value>
+  </data>
+  <data name="US" xml:space="preserve">
+    <value>USER</value>
+  </data>
+  <data name="USED" xml:space="preserve">
+    <value>USED</value>
+  </data>
+  <data name="USED_TOTAL" xml:space="preserve">
+    <value>USER (TOTAL USES)</value>
+  </data>
+  <data name="USER_AND_COMMAND" xml:space="preserve">
+    <value>USER (MOST COMMAND)</value>
+  </data>
+  <data name="U_CMD" xml:space="preserve">
+    <value>USER - COMMAND</value>
+  </data>
+  <data name="V" xml:space="preserve">
+    <value>TIMES USED</value>
+  </data>
+</root>

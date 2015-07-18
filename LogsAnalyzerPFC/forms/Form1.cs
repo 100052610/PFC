@@ -315,7 +315,7 @@ namespace LogsAnalyzerPFC
 
         public void updateTaskProgress(ProgressChangedEventArgs args)
         {
-            this.toolStripProgressBar1.Value = args.ProgressPercentage;
+            this.toolStripProgressBar1.Value = FormUtils.normalizeProgress(args.ProgressPercentage);
             if (args.UserState != null)
             {
                 this.toolStripStatusLabel1.Text = args.UserState.ToString();
